@@ -1,0 +1,7420 @@
+[{
+  "_id": {
+    "$oid": "66ec242c81a87eb114c4a82d"
+  },
+  "clientName": "ram",
+  "clientCode": "ram101",
+  "materials": [
+    {
+      "materialType": "wood",
+      "rows": [
+        {
+          "materialName": "Sal Wood",
+          "uom": "Cbm",
+          "rate": 56502.4,
+          "size": "",
+          "_id": {
+            "$oid": "66ec242c81a87eb114c4a82f"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66ec242c81a87eb114c4a82e"
+      }
+    },
+    {
+      "materialType": "mdf",
+      "rows": [
+        {
+          "materialName": "OSL - 18mm",
+          "uom": "Sqm",
+          "rate": 631.2,
+          "size": "",
+          "_id": {
+            "$oid": "66ec242c81a87eb114c4a831"
+          }
+        },
+        {
+          "materialName": "OSR - 18mm",
+          "uom": "Sqm",
+          "rate": 615.6,
+          "size": "",
+          "_id": {
+            "$oid": "66ec242c81a87eb114c4a832"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66ec242c81a87eb114c4a830"
+      }
+    },
+    {
+      "materialType": "finishes",
+      "rows": [
+        {
+          "materialName": "Lipping",
+          "uom": "Rmt",
+          "rate": 16,
+          "size": "",
+          "_id": {
+            "$oid": "66ec242c81a87eb114c4a834"
+          }
+        },
+        {
+          "materialName": "Machine",
+          "uom": "Hrs",
+          "rate": 400,
+          "size": "",
+          "_id": {
+            "$oid": "66ec242c81a87eb114c4a835"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66ec242c81a87eb114c4a833"
+      }
+    }
+  ],
+  "submittedAt": {
+    "$date": "2024-09-19T13:16:28.096Z"
+  },
+  "items": [
+    {
+      "itemSelect": "bed",
+      "components": [
+        {
+          "unit": "500mm",
+          "componentName": "top panel",
+          "length": 0.2,
+          "breadth": 0.4,
+          "depth": null,
+          "quantity": 2,
+          "cutsize": 0.4232,
+          "materials": [
+            {
+              "material": "",
+              "value": "",
+              "_id": {
+                "$oid": "66ed0cd35744a994d51326a3"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66ecdb2e5744a994d51308d9"
+          }
+        },
+        {
+          "unit": "100mm",
+          "componentName": "left",
+          "length": 2,
+          "breadth": 2,
+          "depth": null,
+          "quantity": 2,
+          "cutsize": 2,
+          "materials": [
+            {
+              "material": "",
+              "value": "",
+              "_id": {
+                "$oid": "66ed0cd35744a994d51326a5"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66ecdb2e5744a994d51308da"
+          }
+        }
+      ],
+      "bo": [
+        {
+          "materialname": "screw",
+          "quantity": 1,
+          "cutsize": 22,
+          "materials": [
+            {
+              "material": "",
+              "value": "",
+              "_id": {
+                "$oid": "66ed13655744a994d5132e49"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66ecdb2e5744a994d51308db"
+          }
+        },
+        {
+          "materialname": "paint",
+          "quantity": 1,
+          "cutsize": 1,
+          "materials": [
+            {
+              "material": "",
+              "value": "",
+              "_id": {
+                "$oid": "66ed13655744a994d5132e4b"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66ecdb2e5744a994d51308dc"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66ed13655744a994d5132e43"
+      }
+    },
+    {
+      "itemSelect": "table",
+      "components": [
+        {
+          "unit": "500mm",
+          "componentName": "top",
+          "length": 2,
+          "breadth": 2,
+          "depth": null,
+          "quantity": 2,
+          "cutsize": 2,
+          "materials": [
+            {
+              "material": "",
+              "value": "",
+              "_id": {
+                "$oid": "66ed0cd35744a994d51326ac"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66ecdb2e5744a994d51308de"
+          }
+        }
+      ],
+      "bo": [
+        {
+          "materialname": "screw",
+          "quantity": 2,
+          "cutsize": 2,
+          "materials": [
+            {
+              "material": "",
+              "value": "",
+              "_id": {
+                "$oid": "66ed13655744a994d5132e50"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66ecdb2e5744a994d51308df"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66ed13655744a994d5132e4c"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ecdac05744a994d51308cb"
+  },
+  "clientName": "sdds",
+  "clientCode": "dsdsds",
+  "materials": [
+    {
+      "materialType": "mdf",
+      "rows": [
+        {
+          "materialName": "OSR - 18mm",
+          "uom": "Sqm",
+          "rate": 615.6,
+          "size": "",
+          "_id": {
+            "$oid": "66ecdac05744a994d51308cd"
+          }
+        },
+        {
+          "materialName": "OSL - 18mm",
+          "uom": "Sqm",
+          "rate": 631.2,
+          "size": "",
+          "_id": {
+            "$oid": "66ecdac05744a994d51308ce"
+          }
+        },
+        {
+          "materialName": "OSL - 8mm",
+          "uom": "Sqm",
+          "rate": 372,
+          "size": "",
+          "_id": {
+            "$oid": "66ecdac05744a994d51308cf"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66ecdac05744a994d51308cc"
+      }
+    },
+    {
+      "materialType": "wood",
+      "rows": [
+        {
+          "materialName": "Sal Wood",
+          "uom": "Cbm",
+          "rate": 56502.4,
+          "size": "",
+          "_id": {
+            "$oid": "66ecdac05744a994d51308d1"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66ecdac05744a994d51308d0"
+      }
+    },
+    {
+      "materialType": "finishes",
+      "rows": [
+        {
+          "materialName": "Lipping",
+          "uom": "Rmt",
+          "rate": 16,
+          "size": "",
+          "_id": {
+            "$oid": "66ecdac05744a994d51308d3"
+          }
+        },
+        {
+          "materialName": "Machine",
+          "uom": "Hrs",
+          "rate": 400,
+          "size": "",
+          "_id": {
+            "$oid": "66ecdac05744a994d51308d4"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66ecdac05744a994d51308d2"
+      }
+    },
+    {
+      "materialType": "Hardware",
+      "rows": [
+        {
+          "materialName": "Hardware",
+          "uom": "lumsum",
+          "rate": 1,
+          "size": "",
+          "_id": {
+            "$oid": "66ecdac05744a994d51308d6"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66ecdac05744a994d51308d5"
+      }
+    }
+  ],
+  "submittedAt": {
+    "$date": "2024-09-20T02:15:28.949Z"
+  },
+  "items": [
+    {
+      "itemSelect": "bed",
+      "totalAmount": 2657.4864,
+      "components": [
+        {
+          "unit": "500mm",
+          "componentName": "to",
+          "length": 0.1,
+          "breadth": 3,
+          "depth": null,
+          "quantity": 2,
+          "cutsize": 0.4232,
+          "materials": [
+            {
+              "material": "Lipping",
+              "value": "8.0640",
+              "_id": {
+                "$oid": "66ed267dfae98c1dfe1159d8"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66ecdb2e5744a994d51308d9"
+          }
+        },
+        {
+          "unit": "100mm",
+          "componentName": "left",
+          "length": 2,
+          "breadth": 2,
+          "depth": null,
+          "quantity": 2,
+          "cutsize": 2,
+          "materials": [
+            {
+              "material": "Sal Wood",
+              "value": "339.0144",
+              "_id": {
+                "$oid": "66ed0cd35744a994d51326a5"
+              }
+            },
+            {
+              "material": "Machine",
+              "value": "360.0000",
+              "_id": {
+                "$oid": "66ed2139fae98c1dfe1150b3"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66ecdb2e5744a994d51308da"
+          }
+        }
+      ],
+      "bo": [
+        {
+          "materialname": "screw",
+          "quantity": 1,
+          "cutsize": 2,
+          "materials": [
+            {
+              "material": "OSL - 18mm",
+              "value": "1300.2720",
+              "_id": {
+                "$oid": "66ed13655744a994d5132e49"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66ecdb2e5744a994d51308db"
+          }
+        },
+        {
+          "materialname": "paint",
+          "quantity": 1,
+          "cutsize": 1,
+          "materials": [
+            {
+              "material": "OSL - 18mm",
+              "value": "650.1360",
+              "_id": {
+                "$oid": "66ed13655744a994d5132e4b"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66ecdb2e5744a994d51308dc"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66ed13655744a994d5132e43"
+      }
+    },
+    {
+      "itemSelect": "table",
+      "totalAmount": 3086.272,
+      "components": [
+        {
+          "unit": "500mm",
+          "componentName": "top",
+          "length": 3,
+          "breadth": 42,
+          "depth": null,
+          "quantity": 2,
+          "cutsize": 2,
+          "materials": [
+            {
+              "material": "Hardware",
+              "value": "550.0000",
+              "_id": {
+                "$oid": "66ed0cd35744a994d51326ac"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66ecdb2e5744a994d51308de"
+          }
+        }
+      ],
+      "bo": [
+        {
+          "materialname": "screw",
+          "quantity": 2,
+          "cutsize": 2,
+          "materials": [
+            {
+              "material": "OSR - 18mm",
+              "value": "2536.2720",
+              "_id": {
+                "$oid": "66ed13655744a994d5132e50"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66ecdb2e5744a994d51308df"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66ed13655744a994d5132e4c"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ed2729fae98c1dfe115aab"
+  },
+  "clientName": "ram",
+  "clientCode": "ram101",
+  "materials": [
+    {
+      "materialType": "wood",
+      "rows": [
+        {
+          "materialName": "Sal Wood",
+          "uom": "Cbm",
+          "rate": 56502.4,
+          "size": "",
+          "_id": {
+            "$oid": "66ed2729fae98c1dfe115aad"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66ed2729fae98c1dfe115aac"
+      }
+    },
+    {
+      "materialType": "mdf",
+      "rows": [
+        {
+          "materialName": "OSL - 18mm",
+          "uom": "Sqm",
+          "rate": 631.2,
+          "size": "",
+          "_id": {
+            "$oid": "66ed2729fae98c1dfe115aaf"
+          }
+        },
+        {
+          "materialName": "OSR - 18mm",
+          "uom": "Sqm",
+          "rate": 615.6,
+          "size": "",
+          "_id": {
+            "$oid": "66ed2729fae98c1dfe115ab0"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66ed2729fae98c1dfe115aae"
+      }
+    },
+    {
+      "materialType": "finishes",
+      "rows": [
+        {
+          "materialName": "Lipping",
+          "uom": "Rmt",
+          "rate": 16,
+          "size": "",
+          "_id": {
+            "$oid": "66ed2729fae98c1dfe115ab2"
+          }
+        },
+        {
+          "materialName": "Machine",
+          "uom": "Hrs",
+          "rate": 400,
+          "size": "",
+          "_id": {
+            "$oid": "66ed2729fae98c1dfe115ab3"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66ed2729fae98c1dfe115ab1"
+      }
+    },
+    {
+      "materialType": "Hardware",
+      "rows": [
+        {
+          "materialName": "Hardware",
+          "uom": "lumsum",
+          "rate": 1,
+          "size": "",
+          "_id": {
+            "$oid": "66ed2729fae98c1dfe115ab5"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66ed2729fae98c1dfe115ab4"
+      }
+    }
+  ],
+  "submittedAt": {
+    "$date": "2024-09-20T07:41:29.084Z"
+  },
+  "items": [
+    {
+      "itemSelect": "bed",
+      "totalAmount": 2070.3936,
+      "components": [
+        {
+          "unit": "500mm",
+          "componentName": "top",
+          "length": 2,
+          "breadth": 1,
+          "depth": null,
+          "quantity": 2,
+          "cutsize": 2,
+          "materials": [
+            {
+              "material": "Sal Wood",
+              "value": "339.0144",
+              "_id": {
+                "$oid": "66ed326bfae98c1dfe115eaa"
+              }
+            },
+            {
+              "material": "Lipping",
+              "value": "201.6000",
+              "_id": {
+                "$oid": "66ed326bfae98c1dfe115eab"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66ed2cd9fae98c1dfe115e1c"
+          }
+        },
+        {
+          "unit": "100mm",
+          "componentName": "bottom",
+          "length": 2,
+          "breadth": 1,
+          "depth": null,
+          "quantity": 1,
+          "cutsize": 2,
+          "materials": [
+            {
+              "material": "Sal Wood",
+              "value": "169.5072",
+              "_id": {
+                "$oid": "66ed326bfae98c1dfe115ead"
+              }
+            },
+            {
+              "material": "OSL - 18mm",
+              "value": "1300.2720",
+              "_id": {
+                "$oid": "66ed326bfae98c1dfe115eae"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66ed2cd9fae98c1dfe115e1d"
+          }
+        }
+      ],
+      "bo": [
+        {
+          "materialname": "screw",
+          "quantity": 1,
+          "cutsize": 2,
+          "materials": [
+            {
+              "material": "Hardware",
+              "value": "20.0000",
+              "_id": {
+                "$oid": "66ed326bfae98c1dfe115eb0"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66ed2cd9fae98c1dfe115e1e"
+          }
+        },
+        {
+          "materialname": "row",
+          "quantity": 2,
+          "cutsize": 1,
+          "materials": [
+            {
+              "material": "Hardware",
+              "value": "40.0000",
+              "_id": {
+                "$oid": "66ed326bfae98c1dfe115eb2"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66ed2cd9fae98c1dfe115e1f"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66ed2cd9fae98c1dfe115e1b"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ed34fdfae98c1dfe115fd7"
+  },
+  "clientName": "ram",
+  "clientCode": "ram101",
+  "materials": [
+    {
+      "materialType": "wood",
+      "rows": [
+        {
+          "materialName": "Sal Wood",
+          "uom": "Cbm",
+          "rate": 56502.4,
+          "size": "",
+          "_id": {
+            "$oid": "66ed34fdfae98c1dfe115fd9"
+          }
+        },
+        {
+          "materialName": "Beech Wood",
+          "uom": "Cbm",
+          "rate": 51205.3,
+          "size": "",
+          "_id": {
+            "$oid": "66ed34fdfae98c1dfe115fda"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66ed34fdfae98c1dfe115fd8"
+      }
+    },
+    {
+      "materialType": "mdf",
+      "rows": [
+        {
+          "materialName": "OSL - 25mm",
+          "uom": "Sqm",
+          "rate": 816,
+          "size": "32",
+          "_id": {
+            "$oid": "66ed34fdfae98c1dfe115fdc"
+          }
+        },
+        {
+          "materialName": "OSL - 18mm",
+          "uom": "Sqm",
+          "rate": 631.2,
+          "size": "",
+          "_id": {
+            "$oid": "66ed34fdfae98c1dfe115fdd"
+          }
+        },
+        {
+          "materialName": "BSL - 18mm",
+          "uom": "Sqm",
+          "rate": 657.6,
+          "size": "",
+          "_id": {
+            "$oid": "66ed34fdfae98c1dfe115fde"
+          }
+        },
+        {
+          "materialName": "OSR - 8mm",
+          "uom": "Sqm",
+          "rate": 396,
+          "size": "",
+          "_id": {
+            "$oid": "66ed34fdfae98c1dfe115fdf"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66ed34fdfae98c1dfe115fdb"
+      }
+    },
+    {
+      "materialType": "Hardware",
+      "rows": [
+        {
+          "materialName": "Hardware",
+          "uom": "lumsum",
+          "rate": 1,
+          "size": "",
+          "_id": {
+            "$oid": "66ed34fdfae98c1dfe115fe1"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66ed34fdfae98c1dfe115fe0"
+      }
+    },
+    {
+      "materialType": "finishes",
+      "rows": [
+        {
+          "materialName": "Lipping",
+          "uom": "Rmt",
+          "rate": 16,
+          "size": "",
+          "_id": {
+            "$oid": "66ed34fdfae98c1dfe115fe3"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66ed34fdfae98c1dfe115fe2"
+      }
+    },
+    {
+      "materialType": "ply",
+      "rows": [
+        {
+          "materialName": "Laminated Ply - 25mm",
+          "uom": "Sqm",
+          "rate": null,
+          "size": "",
+          "_id": {
+            "$oid": "66ed34fdfae98c1dfe115fe5"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66ed34fdfae98c1dfe115fe4"
+      }
+    }
+  ],
+  "submittedAt": {
+    "$date": "2024-09-20T08:40:29.657Z"
+  },
+  "items": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ed3804fae98c1dfe1162e7"
+  },
+  "clientName": "cxc",
+  "clientCode": "dds",
+  "materials": [
+    {
+      "materialType": "mdf",
+      "rows": [
+        {
+          "materialName": "BSR - 25mm",
+          "uom": "Sqm",
+          "rate": 840,
+          "size": "",
+          "_id": {
+            "$oid": "66ed3804fae98c1dfe1162e9"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66ed3804fae98c1dfe1162e8"
+      }
+    }
+  ],
+  "submittedAt": {
+    "$date": "2024-09-20T08:53:24.532Z"
+  },
+  "items": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ed3863fae98c1dfe11630b"
+  },
+  "clientName": "sd",
+  "clientCode": "dds",
+  "materials": [
+    {
+      "materialType": "ply",
+      "rows": [
+        {
+          "materialName": "Raw Ply - 18mm",
+          "uom": "Sqm",
+          "rate": 856.8,
+          "size": "",
+          "_id": {
+            "$oid": "66ed3863fae98c1dfe11630d"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66ed3863fae98c1dfe11630c"
+      }
+    }
+  ],
+  "submittedAt": {
+    "$date": "2024-09-20T08:54:59.877Z"
+  },
+  "items": [
+    {
+      "itemSelect": "wd",
+      "components": [
+        {
+          "unit": "fd",
+          "componentName": "fd",
+          "length": 3,
+          "breadth": 1,
+          "depth": 3,
+          "quantity": null,
+          "cutsize": 33,
+          "materials": [
+            {
+              "material": "",
+              "value": "0.0000",
+              "_id": {
+                "$oid": "66ed44defae98c1dfe116c47"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66ed4271fae98c1dfe116a4d"
+          }
+        }
+      ],
+      "bo": [
+        {
+          "materialname": "33",
+          "quantity": 3,
+          "cutsize": 3,
+          "materials": [
+            {
+              "material": "",
+              "value": "",
+              "_id": {
+                "$oid": "66ed44defae98c1dfe116c49"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66ed4271fae98c1dfe116a4e"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66ed4271fae98c1dfe116a4c"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ed5564fae98c1dfe11824c"
+  },
+  "clientName": "sd",
+  "clientCode": "dds",
+  "materials": [
+    {
+      "materialType": "mdf",
+      "rows": [
+        {
+          "materialName": "OSR - 18mm",
+          "uom": "Sqm",
+          "rate": 615.6,
+          "size": "",
+          "_id": {
+            "$oid": "66ed5564fae98c1dfe11824e"
+          }
+        },
+        {
+          "materialName": "OSL - 18mm",
+          "uom": "Sqm",
+          "rate": 631.2,
+          "size": "",
+          "_id": {
+            "$oid": "66ed5564fae98c1dfe11824f"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66ed5564fae98c1dfe11824d"
+      }
+    }
+  ],
+  "submittedAt": {
+    "$date": "2024-09-20T10:58:44.911Z"
+  },
+  "items": [
+    {
+      "itemSelect": "sds",
+      "totalAmount": 2695.2216,
+      "components": [
+        {
+          "unit": "sds",
+          "componentName": "sd",
+          "length": 2,
+          "breadth": 1,
+          "depth": null,
+          "quantity": 2,
+          "cutsize": 1.2,
+          "materials": [
+            {
+              "material": "",
+              "value": "",
+              "_id": {
+                "$oid": "66ed57cdfae98c1dfe1182eb"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66ed5590fae98c1dfe118252"
+          }
+        }
+      ],
+      "bo": [
+        {
+          "materialname": "sd",
+          "quantity": 2,
+          "cutsize": 1,
+          "materials": [
+            {
+              "material": "OSR - 18mm",
+              "value": "1268.1360",
+              "_id": {
+                "$oid": "66ed75a2fae98c1dfe1198dd"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66ed5590fae98c1dfe118253"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66ed5590fae98c1dfe118251"
+      }
+    },
+    {
+      "itemSelect": "sd",
+      "totalAmount": 6437.088,
+      "components": [
+        {
+          "unit": "sd",
+          "componentName": "sd",
+          "length": 2,
+          "breadth": 2,
+          "depth": null,
+          "quantity": 2,
+          "cutsize": 1,
+          "materials": [
+            {
+              "material": "OSL - 18mm",
+              "value": "1300.2720",
+              "_id": {
+                "$oid": "66ed57cdfae98c1dfe1182ef"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66ed5590fae98c1dfe118255"
+          }
+        }
+      ],
+      "bo": [
+        {
+          "materialname": "sd",
+          "quantity": 2,
+          "cutsize": 2,
+          "materials": [
+            {
+              "material": "OSR - 18mm",
+              "value": "2536.2720",
+              "_id": {
+                "$oid": "66ed75a2fae98c1dfe1198e2"
+              }
+            },
+            {
+              "material": "OSL - 18mm",
+              "value": "2600.5440",
+              "_id": {
+                "$oid": "66ed82c4fae98c1dfe119e07"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66ed5590fae98c1dfe118256"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66ed5590fae98c1dfe118254"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ee5bdc6d8f278505fdf46a"
+  },
+  "clientName": "ram",
+  "clientCode": "ram101",
+  "materials": [
+    {
+      "materialType": "mdf",
+      "rows": [
+        {
+          "materialName": "OSL - 18mm",
+          "uom": "Sqm",
+          "rate": 631.2,
+          "size": "22",
+          "_id": {
+            "$oid": "66ee5bdc6d8f278505fdf46c"
+          }
+        },
+        {
+          "materialName": "OSR - 18mm",
+          "uom": "Sqm",
+          "rate": 615.6,
+          "size": "2",
+          "_id": {
+            "$oid": "66ee5bdc6d8f278505fdf46d"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66ee5bdc6d8f278505fdf46b"
+      }
+    }
+  ],
+  "submittedAt": {
+    "$date": "2024-09-21T05:38:36.484Z"
+  },
+  "items": [
+    {
+      "itemSelect": "bed",
+      "totalAmount": 7737.36,
+      "components": [
+        {
+          "unit": "500mm",
+          "componentName": "top",
+          "length": 2,
+          "breadth": 1,
+          "depth": null,
+          "quantity": 2,
+          "cutsize": 2,
+          "materials": [
+            {
+              "material": "OSR - 18mm",
+              "value": "2536.2720",
+              "_id": {
+                "$oid": "66ee5c296d8f278505fdf497"
+              }
+            },
+            {
+              "material": "OSL - 18mm",
+              "value": "2600.5440",
+              "_id": {
+                "$oid": "66ee5c296d8f278505fdf498"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66ee5c076d8f278505fdf470"
+          }
+        }
+      ],
+      "bo": [
+        {
+          "materialname": "sd",
+          "quantity": 2,
+          "cutsize": 2,
+          "materials": [
+            {
+              "material": "OSL - 18mm",
+              "value": "2600.5440",
+              "_id": {
+                "$oid": "66ee5c296d8f278505fdf49a"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66ee5c076d8f278505fdf471"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66ee5c076d8f278505fdf46f"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ee774e9141135cc4e4bba2"
+  },
+  "clientName": "vc",
+  "clientCode": "ddf",
+  "materials": [
+    {
+      "materialType": "mdf",
+      "rows": [
+        {
+          "materialName": "BSR - 25mm",
+          "uom": "Sqm",
+          "rate": 840,
+          "size": "",
+          "_id": {
+            "$oid": "66ee774e9141135cc4e4bba4"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66ee774e9141135cc4e4bba3"
+      }
+    }
+  ],
+  "submittedAt": {
+    "$date": "2024-09-21T07:35:42.924Z"
+  },
+  "items": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ee78eb9141135cc4e4bbaf"
+  },
+  "clientName": "ddsds",
+  "clientCode": "jk",
+  "materials": [
+    {
+      "materialType": "finishes",
+      "rows": [
+        {
+          "materialName": "Laminate",
+          "uom": "Sqm",
+          "rate": 600,
+          "size": "",
+          "_id": {
+            "$oid": "66ee78eb9141135cc4e4bbb1"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66ee78eb9141135cc4e4bbb0"
+      }
+    }
+  ],
+  "submittedAt": {
+    "$date": "2024-09-21T07:42:35.971Z"
+  },
+  "items": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ee791a9141135cc4e4bbb5"
+  },
+  "clientName": "ds",
+  "clientCode": "ds",
+  "materials": [
+    {
+      "materialType": "mdf",
+      "rows": [
+        {
+          "materialName": "BSR - 25mm",
+          "uom": "Sqm",
+          "rate": 840,
+          "size": "",
+          "_id": {
+            "$oid": "66ee791a9141135cc4e4bbb7"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66ee791a9141135cc4e4bbb6"
+      }
+    }
+  ],
+  "submittedAt": {
+    "$date": "2024-09-21T07:43:22.029Z"
+  },
+  "items": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ee7b2f9141135cc4e4bbd1"
+  },
+  "clientName": "sd",
+  "clientCode": "dds",
+  "materials": [
+    {
+      "materialType": "wood",
+      "rows": [
+        {
+          "materialName": "Beech Wood",
+          "uom": "Cbm",
+          "rate": 51205.3,
+          "size": "32",
+          "_id": {
+            "$oid": "66ee7b2f9141135cc4e4bbd3"
+          }
+        },
+        {
+          "materialName": "Sal Wood",
+          "uom": "Cbm",
+          "rate": 56502.4,
+          "size": "2",
+          "_id": {
+            "$oid": "66ee7b2f9141135cc4e4bbd4"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66ee7b2f9141135cc4e4bbd2"
+      }
+    }
+  ],
+  "submittedAt": {
+    "$date": "2024-09-21T07:52:15.845Z"
+  },
+  "items": [
+    {
+      "itemSelect": "table",
+      "components": [
+        {
+          "unit": "sd",
+          "componentName": "sd",
+          "length": 2,
+          "breadth": 2,
+          "depth": 2,
+          "quantity": 2,
+          "cutsize": 2,
+          "_id": {
+            "$oid": "66ee7b679141135cc4e4bbd7"
+          },
+          "materials": []
+        }
+      ],
+      "bo": [
+        {
+          "materialname": "",
+          "quantity": null,
+          "cutsize": null,
+          "_id": {
+            "$oid": "66ee7b679141135cc4e4bbd8"
+          },
+          "materials": []
+        }
+      ],
+      "_id": {
+        "$oid": "66ee7b679141135cc4e4bbd6"
+      }
+    },
+    {
+      "itemSelect": "bed",
+      "components": [
+        {
+          "unit": "sd",
+          "componentName": "ds",
+          "length": 3,
+          "breadth": 3,
+          "depth": null,
+          "quantity": 3,
+          "cutsize": 3,
+          "_id": {
+            "$oid": "66ee7b679141135cc4e4bbda"
+          },
+          "materials": []
+        }
+      ],
+      "bo": [
+        {
+          "materialname": "sd",
+          "quantity": 2,
+          "cutsize": 2,
+          "_id": {
+            "$oid": "66ee7b679141135cc4e4bbdb"
+          },
+          "materials": []
+        }
+      ],
+      "_id": {
+        "$oid": "66ee7b679141135cc4e4bbd9"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f073ac9c58877933e76097"
+  },
+  "clientName": "John",
+  "clientCode": "John001",
+  "materials": [
+    {
+      "materialType": "cutting",
+      "rows": [
+        {
+          "materialName": "Wood cutting",
+          "uom": "Hrs",
+          "rate": 400,
+          "size": "",
+          "_id": {
+            "$oid": "66f073ac9c58877933e76099"
+          }
+        },
+        {
+          "materialName": "Board cutting",
+          "uom": "Hrs",
+          "rate": 400,
+          "size": "",
+          "_id": {
+            "$oid": "66f073ac9c58877933e7609a"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66f073ac9c58877933e76098"
+      }
+    },
+    {
+      "materialType": "Hardware",
+      "rows": [
+        {
+          "materialName": "Hardware",
+          "uom": "lumsum",
+          "rate": 1,
+          "size": "",
+          "_id": {
+            "$oid": "66f073ac9c58877933e7609c"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66f073ac9c58877933e7609b"
+      }
+    },
+    {
+      "materialType": "finishes",
+      "rows": [
+        {
+          "materialName": "Lipping",
+          "uom": "Rmt",
+          "rate": 16,
+          "size": "",
+          "_id": {
+            "$oid": "66f073ac9c58877933e7609e"
+          }
+        },
+        {
+          "materialName": "Machine",
+          "uom": "Hrs",
+          "rate": 400,
+          "size": "",
+          "_id": {
+            "$oid": "66f073ac9c58877933e7609f"
+          }
+        },
+        {
+          "materialName": "Joinery",
+          "uom": "Mdays",
+          "rate": 1050,
+          "size": "",
+          "_id": {
+            "$oid": "66f073ac9c58877933e760a0"
+          }
+        },
+        {
+          "materialName": "Installation",
+          "uom": "Mdays",
+          "rate": 1050,
+          "size": "",
+          "_id": {
+            "$oid": "66f073ac9c58877933e760a1"
+          }
+        },
+        {
+          "materialName": "Foil",
+          "uom": "Sqm",
+          "rate": 550,
+          "size": "",
+          "_id": {
+            "$oid": "66f073ac9c58877933e760a2"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66f073ac9c58877933e7609d"
+      }
+    },
+    {
+      "materialType": "mdf",
+      "rows": [
+        {
+          "materialName": "OSL - 18mm",
+          "uom": "Sqm",
+          "rate": 631.2,
+          "size": "",
+          "_id": {
+            "$oid": "66f073ac9c58877933e760a4"
+          }
+        },
+        {
+          "materialName": "OSR - 18mm",
+          "uom": "Sqm",
+          "rate": 615.6,
+          "size": "",
+          "_id": {
+            "$oid": "66f073ac9c58877933e760a5"
+          }
+        },
+        {
+          "materialName": "OSL - 8mm",
+          "uom": "Sqm",
+          "rate": 372,
+          "size": "",
+          "_id": {
+            "$oid": "66f073ac9c58877933e760a6"
+          }
+        },
+        {
+          "materialName": "BSL - 18mm",
+          "uom": "Sqm",
+          "rate": 657.6,
+          "size": "",
+          "_id": {
+            "$oid": "66f073ac9c58877933e760a7"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66f073ac9c58877933e760a3"
+      }
+    }
+  ],
+  "submittedAt": {
+    "$date": "2024-09-22T19:44:44.883Z"
+  },
+  "items": [
+    {
+      "itemSelect": "Bed",
+      "components": [
+        {
+          "unit": "500mm",
+          "componentName": "Top and Bottom  Panel",
+          "length": 0.9,
+          "breadth": 0.4,
+          "depth": null,
+          "quantity": 2,
+          "cutsize": 0.2481,
+          "materials": [
+            {
+              "material": "Board cutting",
+              "value": "56.3333",
+              "_id": {
+                "$oid": "66f0eefbaaefae5aea3bad98"
+              }
+            },
+            {
+              "material": "Lipping",
+              "value": "141.9600",
+              "_id": {
+                "$oid": "66f0f286aaefae5aea3baf5c"
+              }
+            },
+            {
+              "material": "Hardware",
+              "value": "65.0000",
+              "_id": {
+                "$oid": "66f0f286aaefae5aea3baf5d"
+              }
+            },
+            {
+              "material": "Machine",
+              "value": "291.4167",
+              "_id": {
+                "$oid": "66f0f286aaefae5aea3baf5e"
+              }
+            },
+            {
+              "material": "OSL - 18mm",
+              "value": "524.2209",
+              "_id": {
+                "$oid": "66f0f286aaefae5aea3baf5f"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f0edc6aaefae5aea3babbe"
+          }
+        },
+        {
+          "unit": "500mm",
+          "componentName": "Side Carcasse Expo",
+          "length": 0.9,
+          "breadth": 0.4,
+          "depth": null,
+          "quantity": 2,
+          "cutsize": 0.1985,
+          "materials": [
+            {
+              "material": "OSR - 18mm",
+              "value": "409.0531",
+              "_id": {
+                "$oid": "66f0f286aaefae5aea3baf61"
+              }
+            },
+            {
+              "material": "Board cutting",
+              "value": "56.3333",
+              "_id": {
+                "$oid": "66f0f286aaefae5aea3baf62"
+              }
+            },
+            {
+              "material": "Machine",
+              "value": "291.4167",
+              "_id": {
+                "$oid": "66f0f286aaefae5aea3baf63"
+              }
+            },
+            {
+              "material": "Hardware",
+              "value": "65.0000",
+              "_id": {
+                "$oid": "66f0f286aaefae5aea3baf64"
+              }
+            },
+            {
+              "material": "Foil",
+              "value": "945.3015",
+              "_id": {
+                "$oid": "66f0f286aaefae5aea3baf65"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f0edc6aaefae5aea3babbf"
+          }
+        },
+        {
+          "unit": "500mm",
+          "componentName": "Shutter",
+          "length": 0.45,
+          "breadth": 0.78,
+          "depth": null,
+          "quantity": 1,
+          "cutsize": 0.2481,
+          "materials": [
+            {
+              "material": "",
+              "value": "",
+              "_id": {
+                "$oid": "66f0f286aaefae5aea3baf67"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f0edc6aaefae5aea3babc0"
+          }
+        },
+        {
+          "unit": "500mm",
+          "componentName": "Shelf",
+          "length": 0.9,
+          "breadth": 0.4,
+          "depth": null,
+          "quantity": 1,
+          "cutsize": 0.2481,
+          "materials": [
+            {
+              "material": "Machine",
+              "value": "145.7083",
+              "_id": {
+                "$oid": "66f0eefbaaefae5aea3bad9e"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f0edc6aaefae5aea3babc1"
+          }
+        },
+        {
+          "unit": "500mm",
+          "componentName": "Back Panel",
+          "length": 0.9,
+          "breadth": 0.78,
+          "depth": null,
+          "quantity": 1,
+          "cutsize": 0.2481,
+          "materials": [
+            {
+              "material": "",
+              "value": "",
+              "_id": {
+                "$oid": "66f0eefbaaefae5aea3bada0"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f0edc6aaefae5aea3babc2"
+          }
+        },
+        {
+          "unit": "500mm",
+          "componentName": "Skirting",
+          "length": 0.9,
+          "breadth": 0.1,
+          "depth": null,
+          "quantity": 1,
+          "cutsize": 0.108,
+          "materials": [
+            {
+              "material": "",
+              "value": "",
+              "_id": {
+                "$oid": "66f0eefbaaefae5aea3bada2"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f0edc6aaefae5aea3babc3"
+          }
+        },
+        {
+          "unit": "Joiner Labour",
+          "componentName": "Joiner Labour",
+          "length": 1,
+          "breadth": 1,
+          "depth": 1,
+          "quantity": 1,
+          "cutsize": 1,
+          "materials": [
+            {
+              "material": "",
+              "value": "",
+              "_id": {
+                "$oid": "66f0eefbaaefae5aea3bada4"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f0edc6aaefae5aea3babc4"
+          }
+        }
+      ],
+      "bo": [
+        {
+          "materialname": "Plinth screw",
+          "quantity": 4,
+          "cutsize": 7,
+          "materials": [
+            {
+              "material": "",
+              "value": "",
+              "_id": {
+                "$oid": "66f0eefbaaefae5aea3bada6"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f0edc6aaefae5aea3babc5"
+          }
+        },
+        {
+          "materialname": "Soft Closing Hinges",
+          "quantity": 4,
+          "cutsize": 135,
+          "materials": [
+            {
+              "material": "",
+              "value": "",
+              "_id": {
+                "$oid": "66f0eefbaaefae5aea3bada8"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f0edc6aaefae5aea3babc6"
+          }
+        },
+        {
+          "materialname": "Handle",
+          "quantity": 2,
+          "cutsize": 30,
+          "materials": [
+            {
+              "material": "",
+              "value": "",
+              "_id": {
+                "$oid": "66f0eefbaaefae5aea3badaa"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f0edc6aaefae5aea3babc7"
+          }
+        },
+        {
+          "materialname": "Fabric",
+          "quantity": null,
+          "cutsize": 1000,
+          "materials": [
+            {
+              "material": "",
+              "value": "",
+              "_id": {
+                "$oid": "66f0eefbaaefae5aea3badac"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f0edc6aaefae5aea3babc8"
+          }
+        },
+        {
+          "materialname": "Foam - 35mm thk 25 D",
+          "quantity": null,
+          "cutsize": 250,
+          "materials": [
+            {
+              "material": "",
+              "value": "",
+              "_id": {
+                "$oid": "66f0eefbaaefae5aea3badae"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f0edc6aaefae5aea3babc9"
+          }
+        },
+        {
+          "materialname": "Glue - 300ml",
+          "quantity": null,
+          "cutsize": 187,
+          "materials": [
+            {
+              "material": "",
+              "value": "",
+              "_id": {
+                "$oid": "66f0eefbaaefae5aea3badb0"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f0edc6aaefae5aea3babca"
+          }
+        },
+        {
+          "materialname": "Decron",
+          "quantity": null,
+          "cutsize": 70,
+          "materials": [
+            {
+              "material": "",
+              "value": "",
+              "_id": {
+                "$oid": "66f0eefbaaefae5aea3badb2"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f0edc6aaefae5aea3babcb"
+          }
+        },
+        {
+          "materialname": "Thread",
+          "quantity": null,
+          "cutsize": 75,
+          "materials": [
+            {
+              "material": "",
+              "value": "",
+              "_id": {
+                "$oid": "66f0eefbaaefae5aea3badb4"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f0edc6aaefae5aea3babcc"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66f0edc6aaefae5aea3babbd"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f1040baaefae5aea3bb338"
+  },
+  "clientName": "John",
+  "clientCode": "John001",
+  "materials": [
+    {
+      "materialType": "wood",
+      "rows": [
+        {
+          "materialName": "Sal Wood",
+          "uom": "Cbm",
+          "rate": 56502.4,
+          "size": "",
+          "_id": {
+            "$oid": "66f1040baaefae5aea3bb33a"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66f1040baaefae5aea3bb339"
+      }
+    },
+    {
+      "materialType": "mdf",
+      "rows": [
+        {
+          "materialName": "OSL - 18mm",
+          "uom": "Sqm",
+          "rate": 631.2,
+          "size": "",
+          "_id": {
+            "$oid": "66f1040baaefae5aea3bb33c"
+          }
+        },
+        {
+          "materialName": "OSR - 18mm",
+          "uom": "Sqm",
+          "rate": 615.6,
+          "size": "",
+          "_id": {
+            "$oid": "66f1040baaefae5aea3bb33d"
+          }
+        },
+        {
+          "materialName": "OSL - 8mm",
+          "uom": "Sqm",
+          "rate": 372,
+          "size": "",
+          "_id": {
+            "$oid": "66f1040baaefae5aea3bb33e"
+          }
+        },
+        {
+          "materialName": "BSL - 18mm",
+          "uom": "Sqm",
+          "rate": 657.6,
+          "size": "",
+          "_id": {
+            "$oid": "66f1040baaefae5aea3bb33f"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66f1040baaefae5aea3bb33b"
+      }
+    },
+    {
+      "materialType": "finishes",
+      "rows": [
+        {
+          "materialName": "Foil",
+          "uom": "Sqm",
+          "rate": 550,
+          "size": "",
+          "_id": {
+            "$oid": "66f1040baaefae5aea3bb341"
+          }
+        },
+        {
+          "materialName": "Lipping",
+          "uom": "Rmt",
+          "rate": 16,
+          "size": "",
+          "_id": {
+            "$oid": "66f1040baaefae5aea3bb342"
+          }
+        },
+        {
+          "materialName": "Machine",
+          "uom": "Hrs",
+          "rate": 400,
+          "size": "",
+          "_id": {
+            "$oid": "66f1040baaefae5aea3bb343"
+          }
+        },
+        {
+          "materialName": "Joinery",
+          "uom": "Mdays",
+          "rate": 1050,
+          "size": "",
+          "_id": {
+            "$oid": "66f1040baaefae5aea3bb344"
+          }
+        },
+        {
+          "materialName": "Installation",
+          "uom": "Mdays",
+          "rate": 1050,
+          "size": "",
+          "_id": {
+            "$oid": "66f1040baaefae5aea3bb345"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66f1040baaefae5aea3bb340"
+      }
+    },
+    {
+      "materialType": "Hardware",
+      "rows": [
+        {
+          "materialName": "Hardware",
+          "uom": "lumsum",
+          "rate": 1,
+          "size": "",
+          "_id": {
+            "$oid": "66f1040baaefae5aea3bb347"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66f1040baaefae5aea3bb346"
+      }
+    },
+    {
+      "materialType": "cutting",
+      "rows": [
+        {
+          "materialName": "Board cutting",
+          "uom": "Hrs",
+          "rate": 400,
+          "size": "",
+          "_id": {
+            "$oid": "66f1040baaefae5aea3bb349"
+          }
+        },
+        {
+          "materialName": "Wood cutting",
+          "uom": "Hrs",
+          "rate": 400,
+          "size": "",
+          "_id": {
+            "$oid": "66f1040baaefae5aea3bb34a"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66f1040baaefae5aea3bb348"
+      }
+    },
+    {
+      "materialType": "BO",
+      "rows": [
+        {
+          "materialName": "BO",
+          "uom": "",
+          "rate": 1,
+          "_id": {
+            "$oid": "66f11095aaefae5aea3bc123"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66f11095aaefae5aea3bc122"
+      }
+    }
+  ],
+  "submittedAt": {
+    "$date": "2024-09-23T06:00:43.268Z"
+  },
+  "items": [
+    {
+      "itemSelect": "Bed",
+      "totalAmount": 9709.3441,
+      "components": [
+        {
+          "unit": "500mm",
+          "componentName": "Top and Bottom Panel",
+          "length": 0.9,
+          "breadth": 0.4,
+          "depth": null,
+          "quantity": 2,
+          "cutsize": 0.2481,
+          "materials": [
+            {
+              "material": "OSL - 18mm",
+              "value": "524.2209",
+              "_id": {
+                "$oid": "66f1078daaefae5aea3bb4fc"
+              }
+            },
+            {
+              "material": "Lipping",
+              "value": "141.9600",
+              "_id": {
+                "$oid": "66f109acaaefae5aea3bb7c6"
+              }
+            },
+            {
+              "material": "Machine",
+              "value": "291.4167",
+              "_id": {
+                "$oid": "66f109acaaefae5aea3bb7c7"
+              }
+            },
+            {
+              "material": "Hardware",
+              "value": "65.0000",
+              "_id": {
+                "$oid": "66f109acaaefae5aea3bb7c8"
+              }
+            },
+            {
+              "material": "Board cutting",
+              "value": "56.3333",
+              "_id": {
+                "$oid": "66f109acaaefae5aea3bb7c9"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f10772aaefae5aea3bb34f"
+          }
+        },
+        {
+          "unit": "500mm",
+          "componentName": "Side Carcasse Expo",
+          "length": 0.9,
+          "breadth": 0.4,
+          "depth": null,
+          "quantity": 2,
+          "cutsize": 0.1985,
+          "materials": [
+            {
+              "material": "OSR - 18mm",
+              "value": "409.0531",
+              "_id": {
+                "$oid": "66f10a23aaefae5aea3bb885"
+              }
+            },
+            {
+              "material": "Foil",
+              "value": "945.3015",
+              "_id": {
+                "$oid": "66f10dd6aaefae5aea3bba97"
+              }
+            },
+            {
+              "material": "Board cutting",
+              "value": "56.3333",
+              "_id": {
+                "$oid": "66f10dd6aaefae5aea3bba98"
+              }
+            },
+            {
+              "material": "Machine",
+              "value": "291.4167",
+              "_id": {
+                "$oid": "66f10dd6aaefae5aea3bba99"
+              }
+            },
+            {
+              "material": "Hardware",
+              "value": "158.652",
+              "_id": {
+                "$oid": "66f10dd6aaefae5aea3bba9a"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f10772aaefae5aea3bb350"
+          }
+        },
+        {
+          "unit": "500mm",
+          "componentName": "Shutter",
+          "length": 0.45,
+          "breadth": 0.78,
+          "depth": null,
+          "quantity": 2,
+          "cutsize": 0.2481,
+          "materials": [
+            {
+              "material": "OSR - 18mm",
+              "value": "511.2649",
+              "_id": {
+                "$oid": "66f10dd6aaefae5aea3bba9c"
+              }
+            },
+            {
+              "material": "Foil",
+              "value": "918.5319",
+              "_id": {
+                "$oid": "66f10dd6aaefae5aea3bba9d"
+              }
+            },
+            {
+              "material": "Board cutting",
+              "value": "53.3000",
+              "_id": {
+                "$oid": "66f10dd6aaefae5aea3bba9e"
+              }
+            },
+            {
+              "material": "Machine",
+              "value": "260.9750",
+              "_id": {
+                "$oid": "66f10dd6aaefae5aea3bba9f"
+              }
+            },
+            {
+              "material": "Hardware",
+              "value": "153.2115",
+              "_id": {
+                "$oid": "66f10dd6aaefae5aea3bbaa0"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f10772aaefae5aea3bb351"
+          }
+        },
+        {
+          "unit": "500mm",
+          "componentName": "Shelf",
+          "length": 0.9,
+          "breadth": 0.4,
+          "depth": null,
+          "quantity": 1,
+          "cutsize": 0.2481,
+          "materials": [
+            {
+              "material": "BSL - 18mm",
+              "value": "273.0732",
+              "_id": {
+                "$oid": "66f10dd6aaefae5aea3bbaa2"
+              }
+            },
+            {
+              "material": "Lipping",
+              "value": "70.9800",
+              "_id": {
+                "$oid": "66f10dd6aaefae5aea3bbaa3"
+              }
+            },
+            {
+              "material": "Board cutting",
+              "value": "28.1667",
+              "_id": {
+                "$oid": "66f10dd6aaefae5aea3bbaa4"
+              }
+            },
+            {
+              "material": "Machine",
+              "value": "145.7083",
+              "_id": {
+                "$oid": "66f10dd6aaefae5aea3bbaa5"
+              }
+            },
+            {
+              "material": "Hardware",
+              "value": "19.5",
+              "_id": {
+                "$oid": "66f10dd6aaefae5aea3bbaa6"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f10772aaefae5aea3bb352"
+          }
+        },
+        {
+          "unit": "500mm",
+          "componentName": "Back Panel",
+          "length": 0.9,
+          "breadth": 0.78,
+          "depth": null,
+          "quantity": 1,
+          "cutsize": 0.2481,
+          "materials": [
+            {
+              "material": "OSL - 8mm",
+              "value": "154.4757",
+              "_id": {
+                "$oid": "66f10dd6aaefae5aea3bbaa8"
+              }
+            },
+            {
+              "material": "Board cutting",
+              "value": "36.4000",
+              "_id": {
+                "$oid": "66f10dd6aaefae5aea3bbaa9"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f10772aaefae5aea3bb353"
+          }
+        },
+        {
+          "unit": "500mm",
+          "componentName": "Skirting",
+          "length": 0.9,
+          "breadth": 0.1,
+          "depth": null,
+          "quantity": 1,
+          "cutsize": 0.108,
+          "materials": [
+            {
+              "material": "Sal Wood",
+              "value": "275.4492",
+              "_id": {
+                "$oid": "66f10dd6aaefae5aea3bbaab"
+              }
+            },
+            {
+              "material": "OSR - 18mm",
+              "value": "111.2789",
+              "_id": {
+                "$oid": "66f10dd6aaefae5aea3bbaac"
+              }
+            },
+            {
+              "material": "Foil",
+              "value": "146.3963",
+              "_id": {
+                "$oid": "66f10dd6aaefae5aea3bbaad"
+              }
+            },
+            {
+              "material": "Hardware",
+              "value": "34.32",
+              "_id": {
+                "$oid": "66f10dd6aaefae5aea3bbaae"
+              }
+            },
+            {
+              "material": "Wood cutting",
+              "value": "9.7500",
+              "_id": {
+                "$oid": "66f10dd6aaefae5aea3bbaaf"
+              }
+            },
+            {
+              "material": "Board cutting",
+              "value": "21.6667",
+              "_id": {
+                "$oid": "66f10dd6aaefae5aea3bbab0"
+              }
+            },
+            {
+              "material": "Machine",
+              "value": "132.7083",
+              "_id": {
+                "$oid": "66f10dd6aaefae5aea3bbab1"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f10772aaefae5aea3bb354"
+          }
+        },
+        {
+          "unit": "Joiner Labour",
+          "componentName": "Joiner Labour",
+          "length": 1,
+          "breadth": 1,
+          "depth": null,
+          "quantity": 1,
+          "cutsize": 1,
+          "materials": [
+            {
+              "material": "Joinery",
+              "value": "1706.2500",
+              "_id": {
+                "$oid": "66f10dd6aaefae5aea3bbab3"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f10772aaefae5aea3bb355"
+          }
+        },
+        {
+          "unit": "Installation Labour",
+          "componentName": "Installation Labour",
+          "length": 1,
+          "breadth": 1,
+          "depth": null,
+          "quantity": 1,
+          "cutsize": 1,
+          "materials": [
+            {
+              "material": "Installation",
+              "value": "1706.2500",
+              "_id": {
+                "$oid": "66f10dd6aaefae5aea3bbab5"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f10772aaefae5aea3bb356"
+          }
+        }
+      ],
+      "bo": [
+        {
+          "materialname": "Plinth screw",
+          "quantity": 4,
+          "cutsize": 7,
+          "materials": [],
+          "_id": {
+            "$oid": "66f10772aaefae5aea3bb357"
+          }
+        },
+        {
+          "materialname": "Soft Closing Hinges",
+          "quantity": 4,
+          "cutsize": 135,
+          "materials": [],
+          "_id": {
+            "$oid": "66f10772aaefae5aea3bb358"
+          }
+        },
+        {
+          "materialname": "Handle",
+          "quantity": 2,
+          "cutsize": 300,
+          "materials": [],
+          "_id": {
+            "$oid": "66f10772aaefae5aea3bb359"
+          }
+        },
+        {
+          "materialname": "Fabric",
+          "quantity": 1,
+          "cutsize": 1000,
+          "materials": [],
+          "_id": {
+            "$oid": "66f10772aaefae5aea3bb35a"
+          }
+        },
+        {
+          "materialname": "Foam - 35mm thk 25 D",
+          "quantity": 1,
+          "cutsize": 250,
+          "materials": [],
+          "_id": {
+            "$oid": "66f10772aaefae5aea3bb35b"
+          }
+        },
+        {
+          "materialname": "Glue - 300ml",
+          "quantity": 1,
+          "cutsize": 187,
+          "materials": [],
+          "_id": {
+            "$oid": "66f10772aaefae5aea3bb35c"
+          }
+        },
+        {
+          "materialname": "Decron",
+          "quantity": 1,
+          "cutsize": 70,
+          "materials": [],
+          "_id": {
+            "$oid": "66f10772aaefae5aea3bb35d"
+          }
+        },
+        {
+          "materialname": "Thread",
+          "quantity": 1,
+          "cutsize": 75,
+          "materials": [],
+          "_id": {
+            "$oid": "66f10772aaefae5aea3bb35e"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66f10772aaefae5aea3bb34e"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f11db6e03eb27213900d1d"
+  },
+  "clientName": "John",
+  "clientCode": "jh001",
+  "materials": [
+    {
+      "materialType": "wood",
+      "rows": [
+        {
+          "materialName": "Sal Wood",
+          "uom": "Cbm",
+          "rate": 56502.4,
+          "size": "",
+          "_id": {
+            "$oid": "66f11db6e03eb27213900d1f"
+          }
+        },
+        {
+          "materialName": "Beech Wood",
+          "uom": "Cbm",
+          "rate": 51205.3,
+          "size": "",
+          "_id": {
+            "$oid": "66f11db6e03eb27213900d20"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66f11db6e03eb27213900d1e"
+      }
+    },
+    {
+      "materialType": "mdf",
+      "rows": [
+        {
+          "materialName": "BSR - 25mm",
+          "uom": "Sqm",
+          "rate": 840,
+          "size": "",
+          "_id": {
+            "$oid": "66f11db6e03eb27213900d22"
+          }
+        },
+        {
+          "materialName": "OSR - 25mm",
+          "uom": "Sqm",
+          "rate": 801.6,
+          "size": "",
+          "_id": {
+            "$oid": "66f11db6e03eb27213900d23"
+          }
+        },
+        {
+          "materialName": "OSL - 25mm",
+          "uom": "Sqm",
+          "rate": 816,
+          "size": "",
+          "_id": {
+            "$oid": "66f11db6e03eb27213900d24"
+          }
+        },
+        {
+          "materialName": "BSR - 18mm",
+          "uom": "Sqm",
+          "rate": 585.6,
+          "size": "",
+          "_id": {
+            "$oid": "66f11db6e03eb27213900d25"
+          }
+        },
+        {
+          "materialName": "OSR - 18mm",
+          "uom": "Sqm",
+          "rate": 615.6,
+          "size": "",
+          "_id": {
+            "$oid": "66f11db6e03eb27213900d26"
+          }
+        },
+        {
+          "materialName": "OSL - 18mm",
+          "uom": "Sqm",
+          "rate": 631.2,
+          "size": "",
+          "_id": {
+            "$oid": "66f11db6e03eb27213900d27"
+          }
+        },
+        {
+          "materialName": "BSL - 18mm",
+          "uom": "Sqm",
+          "rate": 657.6,
+          "size": "",
+          "_id": {
+            "$oid": "66f11db6e03eb27213900d28"
+          }
+        },
+        {
+          "materialName": "OSR - 8mm",
+          "uom": "Sqm",
+          "rate": 396,
+          "size": "",
+          "_id": {
+            "$oid": "66f11db6e03eb27213900d29"
+          }
+        },
+        {
+          "materialName": "OSL - 8mm",
+          "uom": "Sqm",
+          "rate": 372,
+          "size": "",
+          "_id": {
+            "$oid": "66f11db6e03eb27213900d2a"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66f11db6e03eb27213900d21"
+      }
+    },
+    {
+      "materialType": "ply",
+      "rows": [
+        {
+          "materialName": "Raw Ply - 25mm",
+          "uom": "Sqm",
+          "rate": 1188,
+          "size": "",
+          "_id": {
+            "$oid": "66f11db6e03eb27213900d2c"
+          }
+        },
+        {
+          "materialName": "BWP Ply - 18mm",
+          "uom": "Sqm",
+          "rate": 1033.2,
+          "size": "",
+          "_id": {
+            "$oid": "66f11db6e03eb27213900d2d"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66f11db6e03eb27213900d2b"
+      }
+    },
+    {
+      "materialType": "finishes",
+      "rows": [
+        {
+          "materialName": "Foil",
+          "uom": "Sqm",
+          "rate": 550,
+          "size": "",
+          "_id": {
+            "$oid": "66f11db6e03eb27213900d2f"
+          }
+        },
+        {
+          "materialName": "Laminate",
+          "uom": "Sqm",
+          "rate": 600,
+          "size": "",
+          "_id": {
+            "$oid": "66f11db6e03eb27213900d30"
+          }
+        },
+        {
+          "materialName": "White Laminate",
+          "uom": "Sqm",
+          "rate": 150,
+          "size": "",
+          "_id": {
+            "$oid": "66f11db6e03eb27213900d31"
+          }
+        },
+        {
+          "materialName": "Lipping",
+          "uom": "Rmt",
+          "rate": 16,
+          "size": "",
+          "_id": {
+            "$oid": "66f11db6e03eb27213900d32"
+          }
+        },
+        {
+          "materialName": "Machine",
+          "uom": "Hrs",
+          "rate": 400,
+          "size": "",
+          "_id": {
+            "$oid": "66f11db6e03eb27213900d33"
+          }
+        },
+        {
+          "materialName": "Joinery",
+          "uom": "Mdays",
+          "rate": 1050,
+          "size": "",
+          "_id": {
+            "$oid": "66f11db6e03eb27213900d34"
+          }
+        },
+        {
+          "materialName": "Installation",
+          "uom": "Mdays",
+          "rate": 1050,
+          "size": "",
+          "_id": {
+            "$oid": "66f11db6e03eb27213900d35"
+          }
+        },
+        {
+          "materialName": "Painter",
+          "uom": "Mdays",
+          "rate": 1050,
+          "size": "",
+          "_id": {
+            "$oid": "66f11db6e03eb27213900d36"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66f11db6e03eb27213900d2e"
+      }
+    },
+    {
+      "materialType": "Hardware",
+      "rows": [
+        {
+          "materialName": "Hardware",
+          "uom": "lumsum",
+          "rate": 1,
+          "size": "",
+          "_id": {
+            "$oid": "66f11db6e03eb27213900d38"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66f11db6e03eb27213900d37"
+      }
+    },
+    {
+      "materialType": "BO",
+      "rows": [
+        {
+          "materialName": "BO",
+          "uom": "",
+          "rate": 1,
+          "_id": {
+            "$oid": "66f13f6c5bba0698af768440"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66f13f6c5bba0698af76843f"
+      }
+    },
+    {
+      "materialType": "cutting",
+      "rows": [
+        {
+          "materialName": "Wood cutting",
+          "uom": "Hrs",
+          "rate": 400,
+          "size": "",
+          "_id": {
+            "$oid": "66f11db6e03eb27213900d3a"
+          }
+        },
+        {
+          "materialName": "Board cutting",
+          "uom": "Hrs",
+          "rate": 400,
+          "size": "",
+          "_id": {
+            "$oid": "66f11db6e03eb27213900d3b"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66f11db6e03eb27213900d39"
+      }
+    }
+  ],
+  "submittedAt": {
+    "$date": "2024-09-23T07:50:14.501Z"
+  },
+  "items": [
+    {
+      "itemSelect": "Shoe Rack",
+      "totalAmount": 10881.8606,
+      "components": [
+        {
+          "unit": "500mm",
+          "componentName": "top and bottom panel",
+          "length": 0.9,
+          "breadth": 0.4,
+          "depth": null,
+          "quantity": 2,
+          "cutsize": 0.2481,
+          "materials": [
+            {
+              "material": "OSL - 18mm",
+              "value": "524.2209",
+              "_id": {
+                "$oid": "66f13f795bba0698af768515"
+              }
+            },
+            {
+              "material": "Hardware",
+              "value": "65.0000",
+              "_id": {
+                "$oid": "66f13f795bba0698af768516"
+              }
+            },
+            {
+              "material": "Lipping",
+              "value": "141.9600",
+              "_id": {
+                "$oid": "66f13f795bba0698af768517"
+              }
+            },
+            {
+              "material": "Board cutting",
+              "value": "56.3333",
+              "_id": {
+                "$oid": "66f13f795bba0698af768518"
+              }
+            },
+            {
+              "material": "Machine",
+              "value": "291.4167",
+              "_id": {
+                "$oid": "66f13f795bba0698af768519"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f12ff0e03eb27213900d42"
+          }
+        },
+        {
+          "unit": "500mm",
+          "componentName": "side carcasse expo",
+          "length": 0.9,
+          "breadth": 0.4,
+          "depth": null,
+          "quantity": 2,
+          "cutsize": 0.1985,
+          "materials": [
+            {
+              "material": "Machine",
+              "value": "291.4167",
+              "_id": {
+                "$oid": "66f13f795bba0698af76851b"
+              }
+            },
+            {
+              "material": "Board cutting",
+              "value": "56.3333",
+              "_id": {
+                "$oid": "66f13f795bba0698af76851c"
+              }
+            },
+            {
+              "material": "Hardware",
+              "value": "65.0000",
+              "_id": {
+                "$oid": "66f13f795bba0698af76851d"
+              }
+            },
+            {
+              "material": "Foil",
+              "value": "945.3015",
+              "_id": {
+                "$oid": "66f13f795bba0698af76851e"
+              }
+            },
+            {
+              "material": "OSR - 18mm",
+              "value": "409.0531",
+              "_id": {
+                "$oid": "66f13f795bba0698af76851f"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f12ff0e03eb27213900d43"
+          }
+        },
+        {
+          "unit": "500mm",
+          "componentName": "shutter",
+          "length": 0.45,
+          "breadth": 0.78,
+          "depth": null,
+          "quantity": 2,
+          "cutsize": 0.2481,
+          "materials": [
+            {
+              "material": "OSR - 18mm",
+              "value": "511.2649",
+              "_id": {
+                "$oid": "66f13f795bba0698af768521"
+              }
+            },
+            {
+              "material": "Foil",
+              "value": "918.5319",
+              "_id": {
+                "$oid": "66f13f795bba0698af768522"
+              }
+            },
+            {
+              "material": "Hardware",
+              "value": "65.0000",
+              "_id": {
+                "$oid": "66f13f795bba0698af768523"
+              }
+            },
+            {
+              "material": "Board cutting",
+              "value": "53.3000",
+              "_id": {
+                "$oid": "66f13f795bba0698af768524"
+              }
+            },
+            {
+              "material": "Machine",
+              "value": "260.9750",
+              "_id": {
+                "$oid": "66f13f795bba0698af768525"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f12ff0e03eb27213900d44"
+          }
+        },
+        {
+          "unit": "500mm",
+          "componentName": "shelf",
+          "length": 0.9,
+          "breadth": 0.4,
+          "depth": null,
+          "quantity": 1,
+          "cutsize": 0.2481,
+          "materials": [
+            {
+              "material": "Machine",
+              "value": "145.7083",
+              "_id": {
+                "$oid": "66f13f795bba0698af768527"
+              }
+            },
+            {
+              "material": "Board cutting",
+              "value": "28.1667",
+              "_id": {
+                "$oid": "66f13f795bba0698af768528"
+              }
+            },
+            {
+              "material": "Lipping",
+              "value": "70.9800",
+              "_id": {
+                "$oid": "66f13f795bba0698af768529"
+              }
+            },
+            {
+              "material": "Hardware",
+              "value": "32.5000",
+              "_id": {
+                "$oid": "66f13f795bba0698af76852a"
+              }
+            },
+            {
+              "material": "BSL - 18mm",
+              "value": "273.0732",
+              "_id": {
+                "$oid": "66f13f795bba0698af76852b"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f12ff0e03eb27213900d45"
+          }
+        },
+        {
+          "unit": "500mm",
+          "componentName": "Back panel",
+          "length": 0.9,
+          "breadth": 0.78,
+          "depth": null,
+          "quantity": 1,
+          "cutsize": 0.2481,
+          "materials": [
+            {
+              "material": "OSL - 8mm",
+              "value": "154.4757",
+              "_id": {
+                "$oid": "66f13f795bba0698af76852d"
+              }
+            },
+            {
+              "material": "Board cutting",
+              "value": "36.4000",
+              "_id": {
+                "$oid": "66f13f795bba0698af76852e"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f12ff0e03eb27213900d46"
+          }
+        },
+        {
+          "unit": "500mm",
+          "componentName": "skirting",
+          "length": 0.9,
+          "breadth": 0.1,
+          "depth": null,
+          "quantity": 1,
+          "cutsize": 0.108,
+          "materials": [
+            {
+              "material": "Machine",
+              "value": "132.7083",
+              "_id": {
+                "$oid": "66f13f795bba0698af768530"
+              }
+            },
+            {
+              "material": "Board cutting",
+              "value": "21.6667",
+              "_id": {
+                "$oid": "66f13f795bba0698af768531"
+              }
+            },
+            {
+              "material": "Wood cutting",
+              "value": "9.7500",
+              "_id": {
+                "$oid": "66f13f795bba0698af768532"
+              }
+            },
+            {
+              "material": "Hardware",
+              "value": "32.5000",
+              "_id": {
+                "$oid": "66f13f795bba0698af768533"
+              }
+            },
+            {
+              "material": "Foil",
+              "value": "146.3963",
+              "_id": {
+                "$oid": "66f13f795bba0698af768534"
+              }
+            },
+            {
+              "material": "OSR - 18mm",
+              "value": "111.2789",
+              "_id": {
+                "$oid": "66f13f795bba0698af768535"
+              }
+            },
+            {
+              "material": "Sal Wood",
+              "value": "275.4492",
+              "_id": {
+                "$oid": "66f13f795bba0698af768536"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f12ff0e03eb27213900d47"
+          }
+        },
+        {
+          "unit": "Joinary labour",
+          "componentName": "joinary",
+          "length": 1,
+          "breadth": 1,
+          "depth": null,
+          "quantity": 1,
+          "cutsize": 1,
+          "materials": [
+            {
+              "material": "Joinery",
+              "value": "1706.2500",
+              "_id": {
+                "$oid": "66f13f795bba0698af768538"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f12ff0e03eb27213900d48"
+          }
+        },
+        {
+          "unit": "Installation labour",
+          "componentName": "Installation",
+          "length": 1,
+          "breadth": 1,
+          "depth": 1,
+          "quantity": 1,
+          "cutsize": 1,
+          "materials": [
+            {
+              "material": "Installation",
+              "value": "1706.2500",
+              "_id": {
+                "$oid": "66f13f795bba0698af76853a"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f12ff0e03eb27213900d49"
+          }
+        }
+      ],
+      "bo": [
+        {
+          "materialname": "plinth screw",
+          "quantity": 4,
+          "cutsize": 7,
+          "materials": [
+            {
+              "material": "BO",
+              "value": "32.2000",
+              "_id": {
+                "$oid": "66f14ee95bba0698af7699c6"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f12ff0e03eb27213900d4a"
+          }
+        },
+        {
+          "materialname": "soft closing hinges",
+          "quantity": 4,
+          "cutsize": 135,
+          "materials": [
+            {
+              "material": "BO",
+              "value": "621.0000",
+              "_id": {
+                "$oid": "66f14ee95bba0698af7699c8"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f12ff0e03eb27213900d4b"
+          }
+        },
+        {
+          "materialname": "handle",
+          "quantity": 2,
+          "cutsize": 300,
+          "materials": [
+            {
+              "material": "BO",
+              "value": "690.0000",
+              "_id": {
+                "$oid": "66f14ee95bba0698af7699ca"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f12ff0e03eb27213900d4c"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66f12ff0e03eb27213900d41"
+      }
+    },
+    {
+      "itemSelect": "TV unit ",
+      "totalAmount": 20648.9979,
+      "components": [
+        {
+          "unit": "Bottom unit",
+          "componentName": "top panel expo - 25mm thk",
+          "length": 1.8,
+          "breadth": 0.45,
+          "depth": null,
+          "quantity": 1,
+          "cutsize": 0.972,
+          "materials": [
+            {
+              "material": "OSR - 25mm",
+              "value": "1304.1110",
+              "_id": {
+                "$oid": "66f1503a5bba0698af769d4a"
+              }
+            },
+            {
+              "material": "Foil",
+              "value": "1035.2306",
+              "_id": {
+                "$oid": "66f1503a5bba0698af769d4b"
+              }
+            },
+            {
+              "material": "Hardware",
+              "value": "32.5000",
+              "_id": {
+                "$oid": "66f1503a5bba0698af769d4c"
+              }
+            },
+            {
+              "material": "Board cutting",
+              "value": "48.7500",
+              "_id": {
+                "$oid": "66f1503a5bba0698af769d4d"
+              }
+            },
+            {
+              "material": "Machine",
+              "value": "211.2500",
+              "_id": {
+                "$oid": "66f1503a5bba0698af769d4e"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f12ff0e03eb27213900d4e"
+          }
+        },
+        {
+          "unit": "Bottom unit",
+          "componentName": "top and bottom panel",
+          "length": 0.8,
+          "breadth": 0.45,
+          "depth": null,
+          "quantity": 2,
+          "cutsize": 0.432,
+          "materials": [
+            {
+              "material": "Machine",
+              "value": "281.6667",
+              "_id": {
+                "$oid": "66f1503a5bba0698af769d50"
+              }
+            },
+            {
+              "material": "Board cutting",
+              "value": "54.1667",
+              "_id": {
+                "$oid": "66f1503a5bba0698af769d51"
+              }
+            },
+            {
+              "material": "Lipping",
+              "value": "136.5000",
+              "_id": {
+                "$oid": "66f1503a5bba0698af769d52"
+              }
+            },
+            {
+              "material": "Hardware",
+              "value": "65.0000",
+              "_id": {
+                "$oid": "66f1503a5bba0698af769d53"
+              }
+            },
+            {
+              "material": "OSL - 18mm",
+              "value": "912.7909",
+              "_id": {
+                "$oid": "66f1503a5bba0698af769d54"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f12ff0e03eb27213900d4f"
+          }
+        },
+        {
+          "unit": "Bottom unit",
+          "componentName": "side carcasse",
+          "length": 0.5,
+          "breadth": 0.45,
+          "depth": null,
+          "quantity": 2,
+          "cutsize": 0.27,
+          "materials": [
+            {
+              "material": "OSL - 18mm",
+              "value": "570.4943",
+              "_id": {
+                "$oid": "66f1503a5bba0698af769d56"
+              }
+            },
+            {
+              "material": "Hardware",
+              "value": "65.0000",
+              "_id": {
+                "$oid": "66f1503a5bba0698af769d57"
+              }
+            },
+            {
+              "material": "Lipping",
+              "value": "103.7400",
+              "_id": {
+                "$oid": "66f1503a5bba0698af769d58"
+              }
+            },
+            {
+              "material": "Board cutting",
+              "value": "41.1667",
+              "_id": {
+                "$oid": "66f1503a5bba0698af769d59"
+              }
+            },
+            {
+              "material": "Machine",
+              "value": "239.4167",
+              "_id": {
+                "$oid": "66f1503a5bba0698af769d5a"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f12ff0e03eb27213900d50"
+          }
+        },
+        {
+          "unit": "Bottom unit",
+          "componentName": "side carcasse - expo",
+          "length": 0.5,
+          "breadth": 0.45,
+          "depth": null,
+          "quantity": 2,
+          "cutsize": 0.27,
+          "materials": [
+            {
+              "material": "Machine",
+              "value": "239.4167",
+              "_id": {
+                "$oid": "66f1503a5bba0698af769d5c"
+              }
+            },
+            {
+              "material": "Board cutting",
+              "value": "41.1667",
+              "_id": {
+                "$oid": "66f1503a5bba0698af769d5d"
+              }
+            },
+            {
+              "material": "Hardware",
+              "value": "65.0000",
+              "_id": {
+                "$oid": "66f1503a5bba0698af769d5e"
+              }
+            },
+            {
+              "material": "Foil",
+              "value": "602.3160",
+              "_id": {
+                "$oid": "66f1503a5bba0698af769d5f"
+              }
+            },
+            {
+              "material": "OSR - 18mm",
+              "value": "556.3947",
+              "_id": {
+                "$oid": "66f1503a5bba0698af769d60"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f12ff0e03eb27213900d51"
+          }
+        },
+        {
+          "unit": "Bottom unit",
+          "componentName": "shutter",
+          "length": 0.5,
+          "breadth": 0.4,
+          "depth": null,
+          "quantity": 4,
+          "cutsize": 0.24,
+          "materials": [
+            {
+              "material": "OSR - 18mm",
+              "value": "989.1461",
+              "_id": {
+                "$oid": "66f1503a5bba0698af769d62"
+              }
+            },
+            {
+              "material": "Foil",
+              "value": "1080.0790",
+              "_id": {
+                "$oid": "66f1503a5bba0698af769d63"
+              }
+            },
+            {
+              "material": "Hardware",
+              "value": "130.0000",
+              "_id": {
+                "$oid": "66f1503a5bba0698af769d64"
+              }
+            },
+            {
+              "material": "Board cutting",
+              "value": "78.0000",
+              "_id": {
+                "$oid": "66f1503a5bba0698af769d65"
+              }
+            },
+            {
+              "material": "Machine",
+              "value": "470.1667",
+              "_id": {
+                "$oid": "66f1503a5bba0698af769d66"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f12ff0e03eb27213900d52"
+          }
+        },
+        {
+          "unit": "Bottom unit",
+          "componentName": "shelf",
+          "length": 0.5,
+          "breadth": 0.45,
+          "depth": null,
+          "quantity": 2,
+          "cutsize": 0.27,
+          "materials": [
+            {
+              "material": "Machine",
+              "value": "239.4167",
+              "_id": {
+                "$oid": "66f1503a5bba0698af769d68"
+              }
+            },
+            {
+              "material": "Board cutting",
+              "value": "41.1667",
+              "_id": {
+                "$oid": "66f1503a5bba0698af769d69"
+              }
+            },
+            {
+              "material": "Lipping",
+              "value": "103.7400",
+              "_id": {
+                "$oid": "66f1503a5bba0698af769d6a"
+              }
+            },
+            {
+              "material": "Hardware",
+              "value": "65.0000",
+              "_id": {
+                "$oid": "66f1503a5bba0698af769d6b"
+              }
+            },
+            {
+              "material": "BSL - 18mm",
+              "value": "594.3553",
+              "_id": {
+                "$oid": "66f1503a5bba0698af769d6c"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f12ff0e03eb27213900d53"
+          }
+        },
+        {
+          "unit": "Bottom unit",
+          "componentName": "Back panel",
+          "length": 0.5,
+          "breadth": 0.4,
+          "depth": null,
+          "quantity": 2,
+          "cutsize": 0.24,
+          "materials": [
+            {
+              "material": "OSL - 8mm",
+              "value": "298.8648",
+              "_id": {
+                "$oid": "66f1503a5bba0698af769d6e"
+              }
+            },
+            {
+              "material": "Board cutting",
+              "value": "39.0000",
+              "_id": {
+                "$oid": "66f1503a5bba0698af769d6f"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f12ff0e03eb27213900d54"
+          }
+        },
+        {
+          "unit": "Bottom unit",
+          "componentName": "Drawer facia",
+          "length": 0.8,
+          "breadth": 0.2,
+          "depth": null,
+          "quantity": 1,
+          "cutsize": 0.192,
+          "materials": [
+            {
+              "material": "Machine",
+              "value": "130.0000",
+              "_id": {
+                "$oid": "66f1503a5bba0698af769d71"
+              }
+            },
+            {
+              "material": "Board cutting",
+              "value": "21.6667",
+              "_id": {
+                "$oid": "66f1503a5bba0698af769d72"
+              }
+            },
+            {
+              "material": "Hardware",
+              "value": "32.5000",
+              "_id": {
+                "$oid": "66f1503a5bba0698af769d73"
+              }
+            },
+            {
+              "material": "Foil",
+              "value": "227.7275",
+              "_id": {
+                "$oid": "66f1503a5bba0698af769d74"
+              }
+            },
+            {
+              "material": "OSL - 18mm",
+              "value": "202.8424",
+              "_id": {
+                "$oid": "66f1503a5bba0698af769d75"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f12ff0e03eb27213900d55"
+          }
+        },
+        {
+          "unit": "Bottom unit",
+          "componentName": "Drawer unit",
+          "length": 0.8,
+          "breadth": 0.2,
+          "depth": 0.45,
+          "quantity": 1,
+          "cutsize": 0.432,
+          "materials": [
+            {
+              "material": "OSL - 18mm",
+              "value": "456.3955",
+              "_id": {
+                "$oid": "66f1503a5bba0698af769d77"
+              }
+            },
+            {
+              "material": "OSL - 8mm",
+              "value": "268.9783",
+              "_id": {
+                "$oid": "66f1503a5bba0698af769d78"
+              }
+            },
+            {
+              "material": "Hardware",
+              "value": "32.5000",
+              "_id": {
+                "$oid": "66f1503a5bba0698af769d79"
+              }
+            },
+            {
+              "material": "Lipping",
+              "value": "54.6000",
+              "_id": {
+                "$oid": "66f1503a5bba0698af769d7a"
+              }
+            },
+            {
+              "material": "Board cutting",
+              "value": "21.6667",
+              "_id": {
+                "$oid": "66f1503a5bba0698af769d7b"
+              }
+            },
+            {
+              "material": "Machine",
+              "value": "130.0000",
+              "_id": {
+                "$oid": "66f1503a5bba0698af769d7c"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f12ff0e03eb27213900d56"
+          }
+        },
+        {
+          "unit": "Bottom unit",
+          "componentName": "top bottom panel - expo",
+          "length": 0.8,
+          "breadth": 0.45,
+          "depth": null,
+          "quantity": 2,
+          "cutsize": 0.432,
+          "materials": [
+            {
+              "material": "OSR - 18mm",
+              "value": "890.2315",
+              "_id": {
+                "$oid": "66f1503a5bba0698af769d7e"
+              }
+            },
+            {
+              "material": "Foil",
+              "value": "941.1188",
+              "_id": {
+                "$oid": "66f153245bba0698af76a838"
+              }
+            },
+            {
+              "material": "Hardware",
+              "value": "65.0000",
+              "_id": {
+                "$oid": "66f153245bba0698af76a839"
+              }
+            },
+            {
+              "material": "Board cutting",
+              "value": "54.1667",
+              "_id": {
+                "$oid": "66f153245bba0698af76a83a"
+              }
+            },
+            {
+              "material": "Machine",
+              "value": "281.6667",
+              "_id": {
+                "$oid": "66f153245bba0698af76a83b"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f12ff0e03eb27213900d57"
+          }
+        },
+        {
+          "unit": "Bottom unit",
+          "componentName": "side carcasse expo",
+          "length": 0.2,
+          "breadth": 0.45,
+          "depth": null,
+          "quantity": 2,
+          "cutsize": 0.108,
+          "materials": [
+            {
+              "material": "Machine",
+              "value": "197.1667",
+              "_id": {
+                "$oid": "66f153245bba0698af76a83d"
+              }
+            },
+            {
+              "material": "Board cutting",
+              "value": "28.1667",
+              "_id": {
+                "$oid": "66f153245bba0698af76a83e"
+              }
+            },
+            {
+              "material": "Hardware",
+              "value": "65.0000",
+              "_id": {
+                "$oid": "66f153245bba0698af76a83f"
+              }
+            },
+            {
+              "material": "Foil",
+              "value": "263.5133",
+              "_id": {
+                "$oid": "66f153245bba0698af76a840"
+              }
+            },
+            {
+              "material": "OSR - 18mm",
+              "value": "222.5579",
+              "_id": {
+                "$oid": "66f153245bba0698af76a841"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f12ff0e03eb27213900d58"
+          }
+        },
+        {
+          "unit": "Bottom unit",
+          "componentName": "Back panel expo - 18 mm thk",
+          "length": 0.8,
+          "breadth": 0.2,
+          "depth": null,
+          "quantity": 1,
+          "cutsize": 0.192,
+          "materials": [
+            {
+              "material": "OSR - 8mm",
+              "value": "127.2586",
+              "_id": {
+                "$oid": "66f153245bba0698af76a843"
+              }
+            },
+            {
+              "material": "Foil",
+              "value": "227.7275",
+              "_id": {
+                "$oid": "66f153245bba0698af76a844"
+              }
+            },
+            {
+              "material": "Hardware",
+              "value": "32.5000",
+              "_id": {
+                "$oid": "66f153245bba0698af76a845"
+              }
+            },
+            {
+              "material": "Wood cutting",
+              "value": "8.6667",
+              "_id": {
+                "$oid": "66f156bb5bba0698af76ad13"
+              }
+            },
+            {
+              "material": "Board cutting",
+              "value": "21.6667",
+              "_id": {
+                "$oid": "66f156bb5bba0698af76ad14"
+              }
+            },
+            {
+              "material": "Machine",
+              "value": "130.0000",
+              "_id": {
+                "$oid": "66f156bb5bba0698af76ad15"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f12ff0e03eb27213900d59"
+          }
+        },
+        {
+          "unit": "Joineary labour",
+          "componentName": "Joinary ",
+          "length": 11,
+          "breadth": 1,
+          "depth": 1,
+          "quantity": 1,
+          "cutsize": 1,
+          "materials": [
+            {
+              "material": "Joinery",
+              "value": "1706.2500",
+              "_id": {
+                "$oid": "66f156bb5bba0698af76ad17"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f12ff0e03eb27213900d5a"
+          }
+        },
+        {
+          "unit": "Installation labour",
+          "componentName": "Installation",
+          "length": 1,
+          "breadth": 1,
+          "depth": 1,
+          "quantity": 1,
+          "cutsize": 1,
+          "materials": [
+            {
+              "material": "Installation",
+              "value": "1706.2500",
+              "_id": {
+                "$oid": "66f156bb5bba0698af76ad19"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f12ff0e03eb27213900d5b"
+          }
+        }
+      ],
+      "bo": [
+        {
+          "materialname": "suspension bracket",
+          "quantity": 1,
+          "cutsize": 250,
+          "materials": [
+            {
+              "material": "BO",
+              "value": "0",
+              "_id": {
+                "$oid": "66f156bb5bba0698af76ad1b"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f12ff0e03eb27213900d5c"
+          }
+        },
+        {
+          "materialname": "soft closing hinges",
+          "quantity": 4,
+          "cutsize": 152,
+          "materials": [
+            {
+              "material": "BO",
+              "value": "699.2000",
+              "_id": {
+                "$oid": "66f156bb5bba0698af76ad1d"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f12ff0e03eb27213900d5d"
+          }
+        },
+        {
+          "materialname": "Handel",
+          "quantity": 1,
+          "cutsize": 300,
+          "materials": [
+            {
+              "material": "BO",
+              "value": "0",
+              "_id": {
+                "$oid": "66f156bb5bba0698af76ad1f"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f12ff0e03eb27213900d5e"
+          }
+        },
+        {
+          "materialname": "Drawer channel",
+          "quantity": 1,
+          "cutsize": 580,
+          "materials": [
+            {
+              "material": "BO",
+              "value": "667.0000",
+              "_id": {
+                "$oid": "66f156bb5bba0698af76ad21"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f12ff0e03eb27213900d5f"
+          }
+        },
+        {
+          "materialname": "electrical point sifting",
+          "quantity": 1,
+          "cutsize": 1,
+          "materials": [
+            {
+              "material": "BO",
+              "value": "0",
+              "_id": {
+                "$oid": "66f156bb5bba0698af76ad23"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f12ff0e03eb27213900d60"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66f12ff0e03eb27213900d4d"
+      }
+    },
+    {
+      "itemSelect": "Bedroom - 01",
+      "totalAmount": 72721.7924,
+      "components": [
+        {
+          "unit": "Loft - 1000mm & 500mm",
+          "componentName": "Top and Bottom Panel",
+          "length": 1,
+          "breadth": 0.1,
+          "depth": 1,
+          "quantity": 2,
+          "cutsize": 0.12,
+          "materials": [
+            {
+              "material": "OSL - 18mm",
+              "value": "253.5530",
+              "_id": {
+                "$oid": "66f156bb5bba0698af76ad26"
+              }
+            },
+            {
+              "material": "Hardware",
+              "value": "65.0000",
+              "_id": {
+                "$oid": "66f156bb5bba0698af76ad27"
+              }
+            },
+            {
+              "material": "Lipping",
+              "value": "120.1200",
+              "_id": {
+                "$oid": "66f156bb5bba0698af76ad28"
+              }
+            },
+            {
+              "material": "Board cutting",
+              "value": "47.6667",
+              "_id": {
+                "$oid": "66f156bb5bba0698af76ad29"
+              }
+            },
+            {
+              "material": "Machine",
+              "value": "279.5000",
+              "_id": {
+                "$oid": "66f156bb5bba0698af76ad2a"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f13d6e5bba0698af76819e"
+          }
+        },
+        {
+          "unit": "Loft - 1000mm & 500mm",
+          "componentName": "Top and Bottom Panel",
+          "length": 0.5,
+          "breadth": 0.1,
+          "depth": 1,
+          "quantity": 2,
+          "cutsize": 0.06,
+          "materials": [
+            {
+              "material": "Machine",
+              "value": "209.0833",
+              "_id": {
+                "$oid": "66f156bb5bba0698af76ad2c"
+              }
+            },
+            {
+              "material": "Board cutting",
+              "value": "26.0000",
+              "_id": {
+                "$oid": "66f156bb5bba0698af76ad2d"
+              }
+            },
+            {
+              "material": "Lipping",
+              "value": "65.5200",
+              "_id": {
+                "$oid": "66f156bb5bba0698af76ad2e"
+              }
+            },
+            {
+              "material": "Hardware",
+              "value": "65.0000",
+              "_id": {
+                "$oid": "66f156bb5bba0698af76ad2f"
+              }
+            },
+            {
+              "material": "OSL - 18mm",
+              "value": "126.7765",
+              "_id": {
+                "$oid": "66f156bb5bba0698af76ad30"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f13d6e5bba0698af76819f"
+          }
+        },
+        {
+          "unit": "Loft - 1000mm & 500mm",
+          "componentName": "Side Carcasse Loft",
+          "length": 0.7,
+          "breadth": 0.1,
+          "depth": 1,
+          "quantity": 3,
+          "cutsize": 0.084,
+          "materials": [
+            {
+              "material": "OSL - 18mm",
+              "value": "266.2307",
+              "_id": {
+                "$oid": "66f156bb5bba0698af76ad32"
+              }
+            },
+            {
+              "material": "Hardware",
+              "value": "97.5000",
+              "_id": {
+                "$oid": "66f156bb5bba0698af76ad33"
+              }
+            },
+            {
+              "material": "Lipping",
+              "value": "131.0400",
+              "_id": {
+                "$oid": "66f156bb5bba0698af76ad34"
+              }
+            },
+            {
+              "material": "Board cutting",
+              "value": "52.0000",
+              "_id": {
+                "$oid": "66f156bb5bba0698af76ad35"
+              }
+            },
+            {
+              "material": "Machine",
+              "value": "355.8750",
+              "_id": {
+                "$oid": "66f156bb5bba0698af76ad36"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f13d6e5bba0698af7681a0"
+          }
+        },
+        {
+          "unit": "Loft - 1000mm & 500mm",
+          "componentName": "Side Carcasse Expo",
+          "length": 0.7,
+          "breadth": 0.6,
+          "depth": 1,
+          "quantity": 1,
+          "cutsize": 0.504,
+          "materials": [
+            {
+              "material": "Machine",
+              "value": "140.2917",
+              "_id": {
+                "$oid": "66f156bb5bba0698af76ad38"
+              }
+            },
+            {
+              "material": "Board cutting",
+              "value": "28.1667",
+              "_id": {
+                "$oid": "66f156bb5bba0698af76ad39"
+              }
+            },
+            {
+              "material": "Hardware",
+              "value": "32.5000",
+              "_id": {
+                "$oid": "66f156bb5bba0698af76ad3a"
+              }
+            },
+            {
+              "material": "Foil",
+              "value": "542.3632",
+              "_id": {
+                "$oid": "66f156bb5bba0698af76ad3b"
+              }
+            },
+            {
+              "material": "OSR - 18mm",
+              "value": "519.3017",
+              "_id": {
+                "$oid": "66f156bb5bba0698af76ad3c"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f13d6e5bba0698af7681a1"
+          }
+        },
+        {
+          "unit": "Loft - 1000mm & 500mm",
+          "componentName": "Shutter Loft",
+          "length": 0.5,
+          "breadth": 0.6,
+          "depth": 1,
+          "quantity": 3,
+          "cutsize": 0.36,
+          "materials": [
+            {
+              "material": "OSR - 18mm",
+              "value": "1112.7893",
+              "_id": {
+                "$oid": "66f156bb5bba0698af76ad3e"
+              }
+            },
+            {
+              "material": "Foil",
+              "value": "1183.7183",
+              "_id": {
+                "$oid": "66f156bb5bba0698af76ad3f"
+              }
+            },
+            {
+              "material": "Hardware",
+              "value": "97.5000",
+              "_id": {
+                "$oid": "66f156bb5bba0698af76ad40"
+              }
+            },
+            {
+              "material": "Board cutting",
+              "value": "71.5000",
+              "_id": {
+                "$oid": "66f156bb5bba0698af76ad41"
+              }
+            },
+            {
+              "material": "Machine",
+              "value": "378.6250",
+              "_id": {
+                "$oid": "66f156bb5bba0698af76ad42"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f13d6e5bba0698af7681a2"
+          }
+        },
+        {
+          "unit": "Loft - 1000mm & 500mm",
+          "componentName": "Pelmet",
+          "length": 1,
+          "breadth": 0.1,
+          "depth": 1,
+          "quantity": 1,
+          "cutsize": 0.12,
+          "materials": [
+            {
+              "material": "Machine",
+              "value": "139.7500",
+              "_id": {
+                "$oid": "66f156bb5bba0698af76ad44"
+              }
+            },
+            {
+              "material": "Board cutting",
+              "value": "23.8333",
+              "_id": {
+                "$oid": "66f156bb5bba0698af76ad45"
+              }
+            },
+            {
+              "material": "Wood cutting",
+              "value": "10.8333",
+              "_id": {
+                "$oid": "66f156bb5bba0698af76ad46"
+              }
+            },
+            {
+              "material": "Hardware",
+              "value": "32.5000",
+              "_id": {
+                "$oid": "66f156bb5bba0698af76ad47"
+              }
+            },
+            {
+              "material": "Foil",
+              "value": "162.1978",
+              "_id": {
+                "$oid": "66f156bb5bba0698af76ad48"
+              }
+            },
+            {
+              "material": "OSR - 18mm",
+              "value": "123.6433",
+              "_id": {
+                "$oid": "66f156bb5bba0698af76ad49"
+              }
+            },
+            {
+              "material": "Sal Wood",
+              "value": "275.4492",
+              "_id": {
+                "$oid": "66f156bb5bba0698af76ad4a"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f13d6e5bba0698af7681a3"
+          }
+        },
+        {
+          "unit": "Loft - 1000mm & 500mm",
+          "componentName": "Pelmet",
+          "length": 0.5,
+          "breadth": 0.1,
+          "depth": 1,
+          "quantity": 1,
+          "cutsize": 0.06,
+          "materials": [
+            {
+              "material": "Sal Wood",
+              "value": "275.4492",
+              "_id": {
+                "$oid": "66f156bb5bba0698af76ad4c"
+              }
+            },
+            {
+              "material": "OSR - 18mm",
+              "value": "61.8216",
+              "_id": {
+                "$oid": "66f156bb5bba0698af76ad4d"
+              }
+            },
+            {
+              "material": "Foil",
+              "value": "83.1902",
+              "_id": {
+                "$oid": "66f156bb5bba0698af76ad4e"
+              }
+            },
+            {
+              "material": "Hardware",
+              "value": "32.5000",
+              "_id": {
+                "$oid": "66f156bb5bba0698af76ad4f"
+              }
+            },
+            {
+              "material": "Wood cutting",
+              "value": "5.4167",
+              "_id": {
+                "$oid": "66f156bb5bba0698af76ad50"
+              }
+            },
+            {
+              "material": "Board cutting",
+              "value": "13.0000",
+              "_id": {
+                "$oid": "66f156bb5bba0698af76ad51"
+              }
+            },
+            {
+              "material": "Machine",
+              "value": "104.5417",
+              "_id": {
+                "$oid": "66f156bb5bba0698af76ad52"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f13d6e5bba0698af7681a4"
+          }
+        },
+        {
+          "unit": "Loft - 900mm & 400mm",
+          "componentName": "Top Panel",
+          "length": 0.9,
+          "breadth": 0.1,
+          "depth": 1,
+          "quantity": 2,
+          "cutsize": 0.108,
+          "materials": [
+            {
+              "material": "Hardware",
+              "value": "65.0000",
+              "_id": {
+                "$oid": "66f1585a5bba0698af76b347"
+              }
+            },
+            {
+              "material": "Lipping",
+              "value": "109.2000",
+              "_id": {
+                "$oid": "66f1585a5bba0698af76b348"
+              }
+            },
+            {
+              "material": "Board cutting",
+              "value": "43.3333",
+              "_id": {
+                "$oid": "66f1585a5bba0698af76b349"
+              }
+            },
+            {
+              "material": "Machine",
+              "value": "265.4167",
+              "_id": {
+                "$oid": "66f1585a5bba0698af76b34a"
+              }
+            },
+            {
+              "material": "OSL - 18mm",
+              "value": "228.1977",
+              "_id": {
+                "$oid": "66f1585a5bba0698af76b34b"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f13d6e5bba0698af7681a5"
+          }
+        },
+        {
+          "unit": "Loft - 900mm & 400mm",
+          "componentName": "Top Panel",
+          "length": 0.4,
+          "breadth": 0.1,
+          "depth": 1,
+          "quantity": 2,
+          "cutsize": 0.048,
+          "materials": [
+            {
+              "material": "OSL - 18mm",
+              "value": "101.4212",
+              "_id": {
+                "$oid": "66f1585a5bba0698af76b34d"
+              }
+            },
+            {
+              "material": "Hardware",
+              "value": "65.0000",
+              "_id": {
+                "$oid": "66f1585a5bba0698af76b34e"
+              }
+            },
+            {
+              "material": "Lipping",
+              "value": "54.6000",
+              "_id": {
+                "$oid": "66f1585a5bba0698af76b34f"
+              }
+            },
+            {
+              "material": "Board cutting",
+              "value": "21.6667",
+              "_id": {
+                "$oid": "66f1585a5bba0698af76b350"
+              }
+            },
+            {
+              "material": "Machine",
+              "value": "195.0000",
+              "_id": {
+                "$oid": "66f1585a5bba0698af76b351"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f13d6e5bba0698af7681a6"
+          }
+        },
+        {
+          "unit": "Loft - 900mm & 400mm",
+          "componentName": "Bottom Panel Expo",
+          "length": 0.9,
+          "breadth": 0.6,
+          "depth": 1,
+          "quantity": 1,
+          "cutsize": 0.648,
+          "materials": [
+            {
+              "material": "Machine",
+              "value": "154.3750",
+              "_id": {
+                "$oid": "66f1585a5bba0698af76b353"
+              }
+            },
+            {
+              "material": "Board cutting",
+              "value": "32.5000",
+              "_id": {
+                "$oid": "66f1585a5bba0698af76b354"
+              }
+            },
+            {
+              "material": "Hardware",
+              "value": "32.5000",
+              "_id": {
+                "$oid": "66f1585a5bba0698af76b355"
+              }
+            },
+            {
+              "material": "Foil",
+              "value": "690.1538",
+              "_id": {
+                "$oid": "66f1585a5bba0698af76b356"
+              }
+            },
+            {
+              "material": "OSR - 18mm",
+              "value": "667.6736",
+              "_id": {
+                "$oid": "66f1585a5bba0698af76b357"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f13d6e5bba0698af7681a7"
+          }
+        },
+        {
+          "unit": "Loft - 900mm & 400mm",
+          "componentName": "Bottom Panel Expo",
+          "length": 0.4,
+          "breadth": 0.6,
+          "depth": 1,
+          "quantity": 1,
+          "cutsize": 0.288,
+          "materials": [
+            {
+              "material": "OSR - 18mm",
+              "value": "296.7438",
+              "_id": {
+                "$oid": "66f1585a5bba0698af76b359"
+              }
+            },
+            {
+              "material": "Foil",
+              "value": "320.6775",
+              "_id": {
+                "$oid": "66f1585a5bba0698af76b35a"
+              }
+            },
+            {
+              "material": "Hardware",
+              "value": "32.5000",
+              "_id": {
+                "$oid": "66f1585a5bba0698af76b35b"
+              }
+            },
+            {
+              "material": "Board cutting",
+              "value": "21.6667",
+              "_id": {
+                "$oid": "66f1585a5bba0698af76b35c"
+              }
+            },
+            {
+              "material": "Machine",
+              "value": "119.1667",
+              "_id": {
+                "$oid": "66f1585a5bba0698af76b35d"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f13d6e5bba0698af7681a8"
+          }
+        },
+        {
+          "unit": "Loft - 900mm & 400mm",
+          "componentName": "Side Carcasse Loft",
+          "length": 0.7,
+          "breadth": 0.6,
+          "depth": 1,
+          "quantity": 4,
+          "cutsize": 0.504,
+          "materials": [
+            {
+              "material": "Machine",
+              "value": "561.1667",
+              "_id": {
+                "$oid": "66f1585a5bba0698af76b35f"
+              }
+            },
+            {
+              "material": "Board cutting",
+              "value": "112.6667",
+              "_id": {
+                "$oid": "66f1585a5bba0698af76b360"
+              }
+            },
+            {
+              "material": "Lipping",
+              "value": "283.9200",
+              "_id": {
+                "$oid": "66f1585a5bba0698af76b361"
+              }
+            },
+            {
+              "material": "Hardware",
+              "value": "130.0000",
+              "_id": {
+                "$oid": "66f1585a5bba0698af76b362"
+              }
+            },
+            {
+              "material": "OSL - 18mm",
+              "value": "2129.8455",
+              "_id": {
+                "$oid": "66f1585a5bba0698af76b363"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f13d6e5bba0698af7681a9"
+          }
+        },
+        {
+          "unit": "Loft - 900mm & 400mm",
+          "componentName": "Shutter Loft",
+          "length": 0.45,
+          "breadth": 0.6,
+          "depth": 1,
+          "quantity": 2,
+          "cutsize": 0.324,
+          "materials": [
+            {
+              "material": "OSR - 18mm",
+              "value": "667.6736",
+              "_id": {
+                "$oid": "66f1585a5bba0698af76b365"
+              }
+            },
+            {
+              "material": "Foil",
+              "value": "715.2503",
+              "_id": {
+                "$oid": "66f1585a5bba0698af76b366"
+              }
+            },
+            {
+              "material": "Hardware",
+              "value": "65.0000",
+              "_id": {
+                "$oid": "66f1585a5bba0698af76b367"
+              }
+            },
+            {
+              "material": "Board cutting",
+              "value": "45.5000",
+              "_id": {
+                "$oid": "66f1585a5bba0698af76b368"
+              }
+            },
+            {
+              "material": "Machine",
+              "value": "245.3750",
+              "_id": {
+                "$oid": "66f1585a5bba0698af76b369"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f13d6e5bba0698af7681aa"
+          }
+        },
+        {
+          "unit": "Loft - 900mm & 400mm",
+          "componentName": "Shutter Loft",
+          "length": 0.4,
+          "breadth": 0.6,
+          "depth": 1,
+          "quantity": 1,
+          "cutsize": 0.288,
+          "materials": [
+            {
+              "material": "Machine",
+              "value": "119.1667",
+              "_id": {
+                "$oid": "66f1585a5bba0698af76b36b"
+              }
+            },
+            {
+              "material": "Board cutting",
+              "value": "21.6667",
+              "_id": {
+                "$oid": "66f1585a5bba0698af76b36c"
+              }
+            },
+            {
+              "material": "Hardware",
+              "value": "32.5000",
+              "_id": {
+                "$oid": "66f1585a5bba0698af76b36d"
+              }
+            },
+            {
+              "material": "Foil",
+              "value": "320.6775",
+              "_id": {
+                "$oid": "66f1585a5bba0698af76b36e"
+              }
+            },
+            {
+              "material": "OSR - 18mm",
+              "value": "296.7438",
+              "_id": {
+                "$oid": "66f1585a5bba0698af76b36f"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f13d6e5bba0698af7681ab"
+          }
+        },
+        {
+          "unit": "Loft - 900mm & 400mm",
+          "componentName": "Back Panel",
+          "length": 0.9,
+          "breadth": 0.6,
+          "depth": 1,
+          "quantity": 1,
+          "cutsize": 0.648,
+          "materials": [
+            {
+              "material": "OSL - 18mm",
+              "value": "684.5932",
+              "_id": {
+                "$oid": "66f1585a5bba0698af76b371"
+              }
+            },
+            {
+              "material": "Hardware",
+              "value": "32.5000",
+              "_id": {
+                "$oid": "66f1585a5bba0698af76b372"
+              }
+            },
+            {
+              "material": "Lipping",
+              "value": "81.9000",
+              "_id": {
+                "$oid": "66f1585a5bba0698af76b373"
+              }
+            },
+            {
+              "material": "Board cutting",
+              "value": "32.5000",
+              "_id": {
+                "$oid": "66f1585a5bba0698af76b374"
+              }
+            },
+            {
+              "material": "Machine",
+              "value": "154.3750",
+              "_id": {
+                "$oid": "66f1585a5bba0698af76b375"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f13d6e5bba0698af7681ac"
+          }
+        },
+        {
+          "unit": "Loft - 900mm & 400mm",
+          "componentName": "Back Panel",
+          "length": 0.4,
+          "breadth": 0.6,
+          "depth": 1,
+          "quantity": 1,
+          "cutsize": 0.288,
+          "materials": [
+            {
+              "material": "Machine",
+              "value": "119.1667",
+              "_id": {
+                "$oid": "66f1585a5bba0698af76b377"
+              }
+            },
+            {
+              "material": "Board cutting",
+              "value": "21.6667",
+              "_id": {
+                "$oid": "66f1585a5bba0698af76b378"
+              }
+            },
+            {
+              "material": "Lipping",
+              "value": "54.6000",
+              "_id": {
+                "$oid": "66f1585a5bba0698af76b379"
+              }
+            },
+            {
+              "material": "Hardware",
+              "value": "32.5000",
+              "_id": {
+                "$oid": "66f1585a5bba0698af76b37a"
+              }
+            },
+            {
+              "material": "OSL - 18mm",
+              "value": "304.2636",
+              "_id": {
+                "$oid": "66f1585a5bba0698af76b37b"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f13d6e5bba0698af7681ad"
+          }
+        },
+        {
+          "unit": "Loft - 900mm & 400mm",
+          "componentName": "Pelmet",
+          "length": 0.9,
+          "breadth": 0.1,
+          "depth": 1,
+          "quantity": 1,
+          "cutsize": 0.108,
+          "materials": [
+            {
+              "material": "Sal Wood",
+              "value": "275.4492",
+              "_id": {
+                "$oid": "66f1585a5bba0698af76b37d"
+              }
+            },
+            {
+              "material": "OSR - 18mm",
+              "value": "111.2789",
+              "_id": {
+                "$oid": "66f1585a5bba0698af76b37e"
+              }
+            },
+            {
+              "material": "Foil",
+              "value": "146.3963",
+              "_id": {
+                "$oid": "66f1585a5bba0698af76b37f"
+              }
+            },
+            {
+              "material": "Hardware",
+              "value": "32.5000",
+              "_id": {
+                "$oid": "66f1585a5bba0698af76b380"
+              }
+            },
+            {
+              "material": "Wood cutting",
+              "value": "9.7500",
+              "_id": {
+                "$oid": "66f1585a5bba0698af76b381"
+              }
+            },
+            {
+              "material": "Board cutting",
+              "value": "21.6667",
+              "_id": {
+                "$oid": "66f1585a5bba0698af76b382"
+              }
+            },
+            {
+              "material": "Machine",
+              "value": "132.7083",
+              "_id": {
+                "$oid": "66f1585a5bba0698af76b383"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f13d6e5bba0698af7681ae"
+          }
+        },
+        {
+          "unit": "Loft - 900mm & 400mm",
+          "componentName": "Pelmet",
+          "length": 0.4,
+          "breadth": 0.1,
+          "depth": 1,
+          "quantity": 1,
+          "cutsize": 0.048,
+          "materials": [
+            {
+              "material": "Machine",
+              "value": "97.5000",
+              "_id": {
+                "$oid": "66f1585a5bba0698af76b385"
+              }
+            },
+            {
+              "material": "Board cutting",
+              "value": "10.8333",
+              "_id": {
+                "$oid": "66f1585a5bba0698af76b386"
+              }
+            },
+            {
+              "material": "Wood cutting",
+              "value": "4.3333",
+              "_id": {
+                "$oid": "66f1585a5bba0698af76b387"
+              }
+            },
+            {
+              "material": "Hardware",
+              "value": "32.5000",
+              "_id": {
+                "$oid": "66f1585a5bba0698af76b388"
+              }
+            },
+            {
+              "material": "Foil",
+              "value": "67.3888",
+              "_id": {
+                "$oid": "66f1585a5bba0698af76b389"
+              }
+            },
+            {
+              "material": "OSR - 18mm",
+              "value": "49.4573",
+              "_id": {
+                "$oid": "66f1585a5bba0698af76b38a"
+              }
+            },
+            {
+              "material": "Sal Wood",
+              "value": "275.4492",
+              "_id": {
+                "$oid": "66f1585a5bba0698af76b38b"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f13d6e5bba0698af7681af"
+          }
+        },
+        {
+          "unit": "Wardrobe - 1000mm",
+          "componentName": "Top panel",
+          "length": 1,
+          "breadth": 0.6,
+          "depth": 1,
+          "quantity": 1,
+          "cutsize": 0.72,
+          "materials": [
+            {
+              "material": "OSL - 18mm",
+              "value": "760.6591",
+              "_id": {
+                "$oid": "66f159945bba0698af76bae2"
+              }
+            },
+            {
+              "material": "Hardware",
+              "value": "32.5000",
+              "_id": {
+                "$oid": "66f159945bba0698af76bae3"
+              }
+            },
+            {
+              "material": "Lipping",
+              "value": "87.3600",
+              "_id": {
+                "$oid": "66f159945bba0698af76bae4"
+              }
+            },
+            {
+              "material": "Board cutting",
+              "value": "34.6667",
+              "_id": {
+                "$oid": "66f159945bba0698af76bae5"
+              }
+            },
+            {
+              "material": "Machine",
+              "value": "161.4167",
+              "_id": {
+                "$oid": "66f159945bba0698af76bae6"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f13d6e5bba0698af7681b0"
+          }
+        },
+        {
+          "unit": "Wardrobe - 1000mm",
+          "componentName": "Bottom Panel",
+          "length": 1,
+          "breadth": 0.6,
+          "depth": 1,
+          "quantity": 1,
+          "cutsize": 0.72,
+          "materials": [
+            {
+              "material": "Machine",
+              "value": "161.4167",
+              "_id": {
+                "$oid": "66f159945bba0698af76bae8"
+              }
+            },
+            {
+              "material": "Board cutting",
+              "value": "34.6667",
+              "_id": {
+                "$oid": "66f159945bba0698af76bae9"
+              }
+            },
+            {
+              "material": "Lipping",
+              "value": "87.3600",
+              "_id": {
+                "$oid": "66f159945bba0698af76baea"
+              }
+            },
+            {
+              "material": "Hardware",
+              "value": "32.5000",
+              "_id": {
+                "$oid": "66f159945bba0698af76baeb"
+              }
+            },
+            {
+              "material": "OSL - 18mm",
+              "value": "760.6591",
+              "_id": {
+                "$oid": "66f159945bba0698af76baec"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f13d6e5bba0698af7681b1"
+          }
+        },
+        {
+          "unit": "Wardrobe - 1000mm",
+          "componentName": "Side Carcasse",
+          "length": 2.1,
+          "breadth": 0.6,
+          "depth": 1,
+          "quantity": 1,
+          "cutsize": 1.512,
+          "materials": [
+            {
+              "material": "OSL - 18mm",
+              "value": "1597.3842",
+              "_id": {
+                "$oid": "66f159945bba0698af76baee"
+              }
+            },
+            {
+              "material": "Hardware",
+              "value": "32.5000",
+              "_id": {
+                "$oid": "66f159945bba0698af76baef"
+              }
+            },
+            {
+              "material": "Lipping",
+              "value": "147.4200",
+              "_id": {
+                "$oid": "66f159945bba0698af76baf0"
+              }
+            },
+            {
+              "material": "Board cutting",
+              "value": "58.5000",
+              "_id": {
+                "$oid": "66f159945bba0698af76baf1"
+              }
+            },
+            {
+              "material": "Machine",
+              "value": "238.8750",
+              "_id": {
+                "$oid": "66f159945bba0698af76baf2"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f13d6e5bba0698af7681b2"
+          }
+        },
+        {
+          "unit": "Wardrobe - 1000mm",
+          "componentName": "Side Carcasse Exposed",
+          "length": 2.1,
+          "breadth": 0.6,
+          "depth": 1,
+          "quantity": 1,
+          "cutsize": 1.512,
+          "materials": [
+            {
+              "material": "Machine",
+              "value": "238.8750",
+              "_id": {
+                "$oid": "66f159945bba0698af76baf4"
+              }
+            },
+            {
+              "material": "Board cutting",
+              "value": "58.5000",
+              "_id": {
+                "$oid": "66f159945bba0698af76baf5"
+              }
+            },
+            {
+              "material": "Hardware",
+              "value": "32.5000",
+              "_id": {
+                "$oid": "66f159945bba0698af76baf6"
+              }
+            },
+            {
+              "material": "Foil",
+              "value": "1576.8967",
+              "_id": {
+                "$oid": "66f159945bba0698af76baf7"
+              }
+            },
+            {
+              "material": "OSR - 18mm",
+              "value": "1557.9051",
+              "_id": {
+                "$oid": "66f159945bba0698af76baf8"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f13d6e5bba0698af7681b3"
+          }
+        },
+        {
+          "unit": "Wardrobe - 1000mm",
+          "componentName": "Back Panel",
+          "length": 2,
+          "breadth": 1,
+          "depth": 1,
+          "quantity": 1,
+          "cutsize": 2.4,
+          "materials": [
+            {
+              "material": "OSL - 8mm",
+              "value": "1494.3240",
+              "_id": {
+                "$oid": "66f159945bba0698af76bafa"
+              }
+            },
+            {
+              "material": "Board cutting",
+              "value": "65.0000",
+              "_id": {
+                "$oid": "66f159945bba0698af76bafb"
+              }
+            },
+            {
+              "material": "Machine",
+              "value": "249.1667",
+              "_id": {
+                "$oid": "66f159945bba0698af76bafc"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f13d6e5bba0698af7681b4"
+          }
+        },
+        {
+          "unit": "Wardrobe - 1000mm",
+          "componentName": "Shutter",
+          "length": 2,
+          "breadth": 0.5,
+          "depth": 1,
+          "quantity": 2,
+          "cutsize": 1.2,
+          "materials": [
+            {
+              "material": "Machine",
+              "value": "455.0000",
+              "_id": {
+                "$oid": "66f159945bba0698af76bafe"
+              }
+            },
+            {
+              "material": "Board cutting",
+              "value": "108.3333",
+              "_id": {
+                "$oid": "66f159945bba0698af76baff"
+              }
+            },
+            {
+              "material": "Hardware",
+              "value": "65.0000",
+              "_id": {
+                "$oid": "66f159945bba0698af76bb00"
+              }
+            },
+            {
+              "material": "Foil",
+              "value": "2532.8875",
+              "_id": {
+                "$oid": "66f159945bba0698af76bb01"
+              }
+            },
+            {
+              "material": "OSR - 18mm",
+              "value": "2472.8652",
+              "_id": {
+                "$oid": "66f159945bba0698af76bb02"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f13d6e5bba0698af7681b5"
+          }
+        },
+        {
+          "unit": "Wardrobe - 1000mm",
+          "componentName": "Skirting",
+          "length": 1,
+          "breadth": 0.1,
+          "depth": 1,
+          "quantity": 1,
+          "cutsize": 0.12,
+          "materials": [
+            {
+              "material": "Sal Wood",
+              "value": "275.4492",
+              "_id": {
+                "$oid": "66f159945bba0698af76bb04"
+              }
+            },
+            {
+              "material": "OSR - 18mm",
+              "value": "123.6433",
+              "_id": {
+                "$oid": "66f159945bba0698af76bb05"
+              }
+            },
+            {
+              "material": "Foil",
+              "value": "162.1978",
+              "_id": {
+                "$oid": "66f159945bba0698af76bb06"
+              }
+            },
+            {
+              "material": "Hardware",
+              "value": "32.5000",
+              "_id": {
+                "$oid": "66f159945bba0698af76bb07"
+              }
+            },
+            {
+              "material": "Wood cutting",
+              "value": "10.8333",
+              "_id": {
+                "$oid": "66f159945bba0698af76bb08"
+              }
+            },
+            {
+              "material": "Machine",
+              "value": "139.7500",
+              "_id": {
+                "$oid": "66f159945bba0698af76bb09"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f13d6e5bba0698af7681b6"
+          }
+        },
+        {
+          "unit": "Wardrobe - 1000mm",
+          "componentName": "Filler Piece",
+          "length": 2.8,
+          "breadth": 0.09,
+          "depth": 1,
+          "quantity": 1,
+          "cutsize": 0.3024,
+          "materials": [
+            {
+              "material": "Wood cutting",
+              "value": "30.3333",
+              "_id": {
+                "$oid": "66f159945bba0698af76bb0b"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f13d6e5bba0698af7681b7"
+          }
+        },
+        {
+          "unit": "Wardrobe - 500mm",
+          "componentName": "Top panel",
+          "length": 0.5,
+          "breadth": 0.6,
+          "depth": 1,
+          "quantity": 1,
+          "cutsize": 0.36,
+          "materials": [
+            {
+              "material": "Hardware",
+              "value": "32.5000",
+              "_id": {
+                "$oid": "66f15a9a5bba0698af76c334"
+              }
+            },
+            {
+              "material": "Lipping",
+              "value": "60.0600",
+              "_id": {
+                "$oid": "66f15a9a5bba0698af76c335"
+              }
+            },
+            {
+              "material": "OSL - 18mm",
+              "value": "380.3296",
+              "_id": {
+                "$oid": "66f15a9a5bba0698af76c336"
+              }
+            },
+            {
+              "material": "Board cutting",
+              "value": "23.8333",
+              "_id": {
+                "$oid": "66f15a9a5bba0698af76c337"
+              }
+            },
+            {
+              "material": "Machine",
+              "value": "126.2083",
+              "_id": {
+                "$oid": "66f15a9a5bba0698af76c338"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f13d6e5bba0698af7681b8"
+          }
+        },
+        {
+          "unit": "Wardrobe - 500mm",
+          "componentName": "Bottom Panel",
+          "length": 0.5,
+          "breadth": 0.6,
+          "depth": 1,
+          "quantity": 1,
+          "cutsize": 0.36,
+          "materials": [
+            {
+              "material": "Machine",
+              "value": "126.2083",
+              "_id": {
+                "$oid": "66f15a9a5bba0698af76c33a"
+              }
+            },
+            {
+              "material": "Board cutting",
+              "value": "23.8333",
+              "_id": {
+                "$oid": "66f15a9a5bba0698af76c33b"
+              }
+            },
+            {
+              "material": "Lipping",
+              "value": "60.0600",
+              "_id": {
+                "$oid": "66f15a9a5bba0698af76c33c"
+              }
+            },
+            {
+              "material": "Hardware",
+              "value": "32.5000",
+              "_id": {
+                "$oid": "66f15a9a5bba0698af76c33d"
+              }
+            },
+            {
+              "material": "OSL - 18mm",
+              "value": "380.3296",
+              "_id": {
+                "$oid": "66f15a9a5bba0698af76c33e"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f13d6e5bba0698af7681b9"
+          }
+        },
+        {
+          "unit": "Wardrobe - 500mm",
+          "componentName": "Side Carcasse",
+          "length": 2.1,
+          "breadth": 0.6,
+          "depth": 1,
+          "quantity": 1,
+          "cutsize": 1.512,
+          "materials": [
+            {
+              "material": "OSL - 18mm",
+              "value": "1597.3842",
+              "_id": {
+                "$oid": "66f15a9a5bba0698af76c340"
+              }
+            },
+            {
+              "material": "Hardware",
+              "value": "32.5000",
+              "_id": {
+                "$oid": "66f15a9a5bba0698af76c341"
+              }
+            },
+            {
+              "material": "Lipping",
+              "value": "147.4200",
+              "_id": {
+                "$oid": "66f15a9a5bba0698af76c342"
+              }
+            },
+            {
+              "material": "Board cutting",
+              "value": "58.5000",
+              "_id": {
+                "$oid": "66f15a9a5bba0698af76c343"
+              }
+            },
+            {
+              "material": "Machine",
+              "value": "238.8750",
+              "_id": {
+                "$oid": "66f15a9a5bba0698af76c344"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f13d6e5bba0698af7681ba"
+          }
+        },
+        {
+          "unit": "Wardrobe - 500mm",
+          "componentName": "Side Carcasse Exposed",
+          "length": 2.1,
+          "breadth": 0.6,
+          "depth": 1,
+          "quantity": 1,
+          "cutsize": 1.512,
+          "materials": [
+            {
+              "material": "Machine",
+              "value": "238.8750",
+              "_id": {
+                "$oid": "66f15a9a5bba0698af76c346"
+              }
+            },
+            {
+              "material": "Board cutting",
+              "value": "58.5000",
+              "_id": {
+                "$oid": "66f15a9a5bba0698af76c347"
+              }
+            },
+            {
+              "material": "OSR - 18mm",
+              "value": "1557.9051",
+              "_id": {
+                "$oid": "66f15a9a5bba0698af76c348"
+              }
+            },
+            {
+              "material": "Foil",
+              "value": "1576.8967",
+              "_id": {
+                "$oid": "66f15a9a5bba0698af76c349"
+              }
+            },
+            {
+              "material": "Hardware",
+              "value": "32.5000",
+              "_id": {
+                "$oid": "66f15a9a5bba0698af76c34a"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f13d6e5bba0698af7681bb"
+          }
+        },
+        {
+          "unit": "Wardrobe - 500mm",
+          "componentName": "Back Panel",
+          "length": 2,
+          "breadth": 0.5,
+          "depth": 1,
+          "quantity": 1,
+          "cutsize": 1.2,
+          "materials": [
+            {
+              "material": "OSL - 8mm",
+              "value": "747.1620",
+              "_id": {
+                "$oid": "66f15a9a5bba0698af76c34c"
+              }
+            },
+            {
+              "material": "Board cutting",
+              "value": "54.1667",
+              "_id": {
+                "$oid": "66f15a9a5bba0698af76c34d"
+              }
+            },
+            {
+              "material": "Machine",
+              "value": "227.5000",
+              "_id": {
+                "$oid": "66f15a9a5bba0698af76c34e"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f13d6e5bba0698af7681bc"
+          }
+        },
+        {
+          "unit": "Wardrobe - 500mm",
+          "componentName": "Shutter",
+          "length": 2,
+          "breadth": 0.5,
+          "depth": 1,
+          "quantity": 1,
+          "cutsize": 1.2,
+          "materials": [
+            {
+              "material": "Machine",
+              "value": "227.5000",
+              "_id": {
+                "$oid": "66f15a9a5bba0698af76c350"
+              }
+            },
+            {
+              "material": "Board cutting",
+              "value": "54.1667",
+              "_id": {
+                "$oid": "66f15a9a5bba0698af76c351"
+              }
+            },
+            {
+              "material": "Hardware",
+              "value": "32.5000",
+              "_id": {
+                "$oid": "66f15a9a5bba0698af76c352"
+              }
+            },
+            {
+              "material": "Foil",
+              "value": "1266.4438",
+              "_id": {
+                "$oid": "66f15a9a5bba0698af76c353"
+              }
+            },
+            {
+              "material": "OSR - 18mm",
+              "value": "1236.4326",
+              "_id": {
+                "$oid": "66f15a9a5bba0698af76c354"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f13d6e5bba0698af7681bd"
+          }
+        },
+        {
+          "unit": "Wardrobe - 500mm",
+          "componentName": "Skirting",
+          "length": 0.5,
+          "breadth": 0.1,
+          "depth": 1,
+          "quantity": 1,
+          "cutsize": 0.06,
+          "materials": [
+            {
+              "material": "Sal Wood",
+              "value": "275.4492",
+              "_id": {
+                "$oid": "66f15a9a5bba0698af76c356"
+              }
+            },
+            {
+              "material": "OSR - 18mm",
+              "value": "61.8216",
+              "_id": {
+                "$oid": "66f15a9a5bba0698af76c357"
+              }
+            },
+            {
+              "material": "Foil",
+              "value": "83.1902",
+              "_id": {
+                "$oid": "66f15a9a5bba0698af76c358"
+              }
+            },
+            {
+              "material": "Hardware",
+              "value": "32.5000",
+              "_id": {
+                "$oid": "66f15a9a5bba0698af76c359"
+              }
+            },
+            {
+              "material": "Wood cutting",
+              "value": "5.4167",
+              "_id": {
+                "$oid": "66f15a9a5bba0698af76c35a"
+              }
+            },
+            {
+              "material": "Board cutting",
+              "value": "13.0000",
+              "_id": {
+                "$oid": "66f15a9a5bba0698af76c35b"
+              }
+            },
+            {
+              "material": "Machine",
+              "value": "104.5417",
+              "_id": {
+                "$oid": "66f15a9a5bba0698af76c35c"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f13d6e5bba0698af7681be"
+          }
+        },
+        {
+          "unit": "Internal",
+          "componentName": "Shelf",
+          "length": 1,
+          "breadth": 0.6,
+          "depth": 1,
+          "quantity": 1,
+          "cutsize": 0.72,
+          "materials": [
+            {
+              "material": "Machine",
+              "value": "161.4167",
+              "_id": {
+                "$oid": "66f15c925bba0698af76cc57"
+              }
+            },
+            {
+              "material": "Board cutting",
+              "value": "34.6667",
+              "_id": {
+                "$oid": "66f15c925bba0698af76cc58"
+              }
+            },
+            {
+              "material": "Lipping",
+              "value": "87.3600",
+              "_id": {
+                "$oid": "66f15c925bba0698af76cc59"
+              }
+            },
+            {
+              "material": "Hardware",
+              "value": "32.5000",
+              "_id": {
+                "$oid": "66f15c925bba0698af76cc5a"
+              }
+            },
+            {
+              "material": "BSL - 18mm",
+              "value": "792.4738",
+              "_id": {
+                "$oid": "66f15c925bba0698af76cc5b"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f13d6e5bba0698af7681bf"
+          }
+        },
+        {
+          "unit": "Internal",
+          "componentName": "Shelf adjustable",
+          "length": 0.5,
+          "breadth": 0.6,
+          "depth": 1,
+          "quantity": 5,
+          "cutsize": 0.36,
+          "materials": [
+            {
+              "material": "BSL - 18mm",
+              "value": "1981.1844",
+              "_id": {
+                "$oid": "66f15c925bba0698af76cc5d"
+              }
+            },
+            {
+              "material": "Hardware",
+              "value": "162.5000",
+              "_id": {
+                "$oid": "66f15c925bba0698af76cc5e"
+              }
+            },
+            {
+              "material": "Lipping",
+              "value": "300.3000",
+              "_id": {
+                "$oid": "66f15c925bba0698af76cc5f"
+              }
+            },
+            {
+              "material": "Board cutting",
+              "value": "119.1667",
+              "_id": {
+                "$oid": "66f15c925bba0698af76cc60"
+              }
+            },
+            {
+              "material": "Machine",
+              "value": "631.0417",
+              "_id": {
+                "$oid": "66f15c925bba0698af76cc61"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f13d6e5bba0698af7681c0"
+          }
+        },
+        {
+          "unit": "Internal",
+          "componentName": "Vertical - 25mm thk",
+          "length": 0.4,
+          "breadth": 0.6,
+          "depth": 1,
+          "quantity": 2,
+          "cutsize": 0.288,
+          "materials": [
+            {
+              "material": "Machine",
+              "value": "238.3333",
+              "_id": {
+                "$oid": "66f15c925bba0698af76cc63"
+              }
+            },
+            {
+              "material": "Board cutting",
+              "value": "43.3333",
+              "_id": {
+                "$oid": "66f15c925bba0698af76cc64"
+              }
+            },
+            {
+              "material": "Lipping",
+              "value": "109.2000",
+              "_id": {
+                "$oid": "66f15c925bba0698af76cc65"
+              }
+            },
+            {
+              "material": "Hardware",
+              "value": "65.0000",
+              "_id": {
+                "$oid": "66f15c925bba0698af76cc66"
+              }
+            },
+            {
+              "material": "OSL - 25mm",
+              "value": "786.6893",
+              "_id": {
+                "$oid": "66f15c925bba0698af76cc67"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f13d6e5bba0698af7681c1"
+          }
+        },
+        {
+          "unit": "Internal",
+          "componentName": "Vertical",
+          "length": 0.8,
+          "breadth": 0.6,
+          "depth": 1,
+          "quantity": 1,
+          "cutsize": 0.576,
+          "materials": [
+            {
+              "material": "BSL - 18mm",
+              "value": "633.9790",
+              "_id": {
+                "$oid": "66f15c925bba0698af76cc69"
+              }
+            },
+            {
+              "material": "Hardware",
+              "value": "32.5000",
+              "_id": {
+                "$oid": "66f15c925bba0698af76cc6a"
+              }
+            },
+            {
+              "material": "Lipping",
+              "value": "76.4400",
+              "_id": {
+                "$oid": "66f15c925bba0698af76cc6b"
+              }
+            },
+            {
+              "material": "Board cutting",
+              "value": "30.3333",
+              "_id": {
+                "$oid": "66f15c925bba0698af76cc6c"
+              }
+            },
+            {
+              "material": "Machine",
+              "value": "147.3333",
+              "_id": {
+                "$oid": "66f15c925bba0698af76cc6d"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f13d6e5bba0698af7681c2"
+          }
+        },
+        {
+          "unit": "Internal",
+          "componentName": "Drawer Unit",
+          "length": 0.5,
+          "breadth": 0.2,
+          "depth": 0.6,
+          "quantity": 2,
+          "cutsize": 0.36,
+          "materials": [
+            {
+              "material": "Machine",
+              "value": "217.7500",
+              "_id": {
+                "$oid": "66f15c925bba0698af76cc6f"
+              }
+            },
+            {
+              "material": "Board cutting",
+              "value": "30.3333",
+              "_id": {
+                "$oid": "66f15c925bba0698af76cc70"
+              }
+            },
+            {
+              "material": "Lipping",
+              "value": "76.4400",
+              "_id": {
+                "$oid": "66f15c925bba0698af76cc71"
+              }
+            },
+            {
+              "material": "Hardware",
+              "value": "65.0000",
+              "_id": {
+                "$oid": "66f15c925bba0698af76cc72"
+              }
+            },
+            {
+              "material": "OSL - 8mm",
+              "value": "448.2972",
+              "_id": {
+                "$oid": "66f15c925bba0698af76cc73"
+              }
+            },
+            {
+              "material": "OSL - 18mm",
+              "value": "760.6591",
+              "_id": {
+                "$oid": "66f15c925bba0698af76cc74"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f13d6e5bba0698af7681c3"
+          }
+        },
+        {
+          "unit": "Joiner Labour",
+          "componentName": "Joiner Labour",
+          "length": 1,
+          "breadth": 1,
+          "depth": 1,
+          "quantity": 1,
+          "cutsize": 1,
+          "materials": [
+            {
+              "material": "Joinery",
+              "value": "1706.2500",
+              "_id": {
+                "$oid": "66f15c925bba0698af76cc76"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f13d6e5bba0698af7681c4"
+          }
+        },
+        {
+          "unit": "Installation Labour",
+          "componentName": "Installation Labour",
+          "length": 1,
+          "breadth": 1,
+          "depth": 1,
+          "quantity": 1,
+          "cutsize": 1,
+          "materials": [
+            {
+              "material": "Installation",
+              "value": "1706.2500",
+              "_id": {
+                "$oid": "66f15c925bba0698af76cc78"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f13d6e5bba0698af7681c5"
+          }
+        }
+      ],
+      "bo": [
+        {
+          "materialname": "Plinth screw",
+          "quantity": 8,
+          "cutsize": 7,
+          "materials": [
+            {
+              "material": "BO",
+              "value": "64.4000",
+              "_id": {
+                "$oid": "66f15c925bba0698af76cc7a"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f13d6e5bba0698af7681c6"
+          }
+        },
+        {
+          "materialname": "Soft Closing Hinges",
+          "quantity": 24,
+          "cutsize": 135,
+          "materials": [
+            {
+              "material": "BO",
+              "value": "3726.0000",
+              "_id": {
+                "$oid": "66f15c925bba0698af76cc7c"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f13d6e5bba0698af7681c7"
+          }
+        },
+        {
+          "materialname": "Two Way Tape",
+          "quantity": 6.5,
+          "cutsize": 140,
+          "materials": [
+            {
+              "material": "BO",
+              "value": "1046.5000",
+              "_id": {
+                "$oid": "66f15c925bba0698af76cc7e"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f13d6e5bba0698af7681c8"
+          }
+        },
+        {
+          "materialname": "Handle Loft",
+          "quantity": 6,
+          "cutsize": 300,
+          "materials": [
+            {
+              "material": "BO",
+              "value": "2070.0000",
+              "_id": {
+                "$oid": "66f15c925bba0698af76cc80"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f13d6e5bba0698af7681c9"
+          }
+        },
+        {
+          "materialname": "Handle wardrobe",
+          "quantity": 3,
+          "cutsize": 300,
+          "materials": [
+            {
+              "material": "BO",
+              "value": "1035.0000",
+              "_id": {
+                "$oid": "66f15c925bba0698af76cc82"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f13d6e5bba0698af7681ca"
+          }
+        },
+        {
+          "materialname": "Knob",
+          "quantity": 2,
+          "cutsize": 230,
+          "materials": [
+            {
+              "material": "BO",
+              "value": "529.0000",
+              "_id": {
+                "$oid": "66f15c925bba0698af76cc84"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f13d6e5bba0698af7681cb"
+          }
+        },
+        {
+          "materialname": "Hanger Rod",
+          "quantity": 1,
+          "cutsize": 267.3,
+          "materials": [
+            {
+              "material": "BO",
+              "value": "307.3950",
+              "_id": {
+                "$oid": "66f15c925bba0698af76cc86"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f13d6e5bba0698af7681cc"
+          }
+        },
+        {
+          "materialname": "Hanger Cup",
+          "quantity": 2,
+          "cutsize": 45.1,
+          "materials": [
+            {
+              "material": "BO",
+              "value": "103.7300",
+              "_id": {
+                "$oid": "66f15c925bba0698af76cc88"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f13d6e5bba0698af7681cd"
+          }
+        },
+        {
+          "materialname": "Mirror",
+          "quantity": 1.063125,
+          "cutsize": 1291.2,
+          "materials": [
+            {
+              "material": "BO",
+              "value": "1578.6130",
+              "_id": {
+                "$oid": "66f15c925bba0698af76cc8a"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f13d6e5bba0698af7681ce"
+          }
+        },
+        {
+          "materialname": "Rod Lock - Kombo",
+          "quantity": 2,
+          "cutsize": 627,
+          "materials": [
+            {
+              "material": "BO",
+              "value": "1442.1000",
+              "_id": {
+                "$oid": "66f15c925bba0698af76cc8c"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f13d6e5bba0698af7681cf"
+          }
+        },
+        {
+          "materialname": "Suspension Bracket",
+          "quantity": 2,
+          "cutsize": 250,
+          "materials": [
+            {
+              "material": "BO",
+              "value": "575.0000",
+              "_id": {
+                "$oid": "66f15c925bba0698af76cc8e"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f13d6e5bba0698af7681d0"
+          }
+        },
+        {
+          "materialname": "Multipurpose Lock",
+          "quantity": 2,
+          "cutsize": 95,
+          "materials": [
+            {
+              "material": "BO",
+              "value": "218.5000",
+              "_id": {
+                "$oid": "66f15c925bba0698af76cc90"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f13d6e5bba0698af7681d1"
+          }
+        },
+        {
+          "materialname": "Drawer Channels",
+          "quantity": 2,
+          "cutsize": 770,
+          "materials": [
+            {
+              "material": "BO",
+              "value": "1771.0000",
+              "_id": {
+                "$oid": "66f15c925bba0698af76cc92"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "66f13d6e5bba0698af7681d2"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66f13d6e5bba0698af76819d"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f15dd55bba0698af76dbae"
+  },
+  "clientName": "ddsds",
+  "clientCode": "ds",
+  "materials": [
+    {
+      "materialType": "wood",
+      "rows": [
+        {
+          "materialName": "Beech Wood",
+          "uom": "Cbm",
+          "rate": 51205.3,
+          "size": "",
+          "_id": {
+            "$oid": "66f15dd55bba0698af76dbb0"
+          }
+        },
+        {
+          "materialName": "Sal Wood",
+          "uom": "Cbm",
+          "rate": 56502.4,
+          "size": "",
+          "_id": {
+            "$oid": "66f15dd55bba0698af76dbb1"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66f15dd55bba0698af76dbaf"
+      }
+    },
+    {
+      "materialType": "mdf",
+      "rows": [
+        {
+          "materialName": "BSL - 25mm",
+          "uom": "Sqm",
+          "rate": 844.8,
+          "size": "",
+          "_id": {
+            "$oid": "66f15dd55bba0698af76dbb3"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66f15dd55bba0698af76dbb2"
+      }
+    }
+  ],
+  "submittedAt": {
+    "$date": "2024-09-23T12:23:49.892Z"
+  },
+  "items": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f4d1f3058c9627841c7e8f"
+  },
+  "quotationNumber": "Qu-2024-020",
+  "clientName": "John",
+  "clientCode": "jh001",
+  "materials": [
+    {
+      "materialType": "wood",
+      "rows": [
+        {
+          "materialName": "Sal Wood",
+          "uom": "Cbm",
+          "rate": 56502.4,
+          "size": "",
+          "_id": {
+            "$oid": "66f11db6e03eb27213900d1f"
+          }
+        },
+        {
+          "materialName": "Beech Wood",
+          "uom": "Cbm",
+          "rate": 51205.3,
+          "size": "",
+          "_id": {
+            "$oid": "66f11db6e03eb27213900d20"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66f11db6e03eb27213900d1e"
+      }
+    },
+    {
+      "materialType": "mdf",
+      "rows": [
+        {
+          "materialName": "BSR - 25mm",
+          "uom": "Sqm",
+          "rate": 840,
+          "size": "",
+          "_id": {
+            "$oid": "66f11db6e03eb27213900d22"
+          }
+        },
+        {
+          "materialName": "OSR - 25mm",
+          "uom": "Sqm",
+          "rate": 801.6,
+          "size": "",
+          "_id": {
+            "$oid": "66f11db6e03eb27213900d23"
+          }
+        },
+        {
+          "materialName": "OSL - 25mm",
+          "uom": "Sqm",
+          "rate": 816,
+          "size": "",
+          "_id": {
+            "$oid": "66f11db6e03eb27213900d24"
+          }
+        },
+        {
+          "materialName": "BSR - 18mm",
+          "uom": "Sqm",
+          "rate": 585.6,
+          "size": "",
+          "_id": {
+            "$oid": "66f11db6e03eb27213900d25"
+          }
+        },
+        {
+          "materialName": "OSR - 18mm",
+          "uom": "Sqm",
+          "rate": 615.6,
+          "size": "",
+          "_id": {
+            "$oid": "66f11db6e03eb27213900d26"
+          }
+        },
+        {
+          "materialName": "OSL - 18mm",
+          "uom": "Sqm",
+          "rate": 631.2,
+          "size": "",
+          "_id": {
+            "$oid": "66f11db6e03eb27213900d27"
+          }
+        },
+        {
+          "materialName": "BSL - 18mm",
+          "uom": "Sqm",
+          "rate": 657.6,
+          "size": "",
+          "_id": {
+            "$oid": "66f11db6e03eb27213900d28"
+          }
+        },
+        {
+          "materialName": "OSR - 8mm",
+          "uom": "Sqm",
+          "rate": 396,
+          "size": "",
+          "_id": {
+            "$oid": "66f11db6e03eb27213900d29"
+          }
+        },
+        {
+          "materialName": "OSL - 8mm",
+          "uom": "Sqm",
+          "rate": 372,
+          "size": "",
+          "_id": {
+            "$oid": "66f11db6e03eb27213900d2a"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66f11db6e03eb27213900d21"
+      }
+    },
+    {
+      "materialType": "ply",
+      "rows": [
+        {
+          "materialName": "Raw Ply - 25mm",
+          "uom": "Sqm",
+          "rate": 1188,
+          "size": "",
+          "_id": {
+            "$oid": "66f11db6e03eb27213900d2c"
+          }
+        },
+        {
+          "materialName": "BWP Ply - 18mm",
+          "uom": "Sqm",
+          "rate": 1033.2,
+          "size": "",
+          "_id": {
+            "$oid": "66f11db6e03eb27213900d2d"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66f11db6e03eb27213900d2b"
+      }
+    },
+    {
+      "materialType": "finishes",
+      "rows": [
+        {
+          "materialName": "Foil",
+          "uom": "Sqm",
+          "rate": 550,
+          "size": "",
+          "_id": {
+            "$oid": "66f11db6e03eb27213900d2f"
+          }
+        },
+        {
+          "materialName": "Laminate",
+          "uom": "Sqm",
+          "rate": 600,
+          "size": "",
+          "_id": {
+            "$oid": "66f11db6e03eb27213900d30"
+          }
+        },
+        {
+          "materialName": "White Laminate",
+          "uom": "Sqm",
+          "rate": 150,
+          "size": "",
+          "_id": {
+            "$oid": "66f11db6e03eb27213900d31"
+          }
+        },
+        {
+          "materialName": "Lipping",
+          "uom": "Rmt",
+          "rate": 16,
+          "size": "",
+          "_id": {
+            "$oid": "66f11db6e03eb27213900d32"
+          }
+        },
+        {
+          "materialName": "Machine",
+          "uom": "Hrs",
+          "rate": 400,
+          "size": "",
+          "_id": {
+            "$oid": "66f11db6e03eb27213900d33"
+          }
+        },
+        {
+          "materialName": "Joinery",
+          "uom": "Mdays",
+          "rate": 1050,
+          "size": "",
+          "_id": {
+            "$oid": "66f11db6e03eb27213900d34"
+          }
+        },
+        {
+          "materialName": "Installation",
+          "uom": "Mdays",
+          "rate": 1050,
+          "size": "",
+          "_id": {
+            "$oid": "66f11db6e03eb27213900d35"
+          }
+        },
+        {
+          "materialName": "Painter",
+          "uom": "Mdays",
+          "rate": 1050,
+          "size": "",
+          "_id": {
+            "$oid": "66f11db6e03eb27213900d36"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66f11db6e03eb27213900d2e"
+      }
+    },
+    {
+      "materialType": "Hardware",
+      "rows": [
+        {
+          "materialName": "Hardware",
+          "uom": "lumsum",
+          "rate": 1,
+          "size": "",
+          "_id": {
+            "$oid": "66f11db6e03eb27213900d38"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66f11db6e03eb27213900d37"
+      }
+    },
+    {
+      "materialType": "BO",
+      "rows": [
+        {
+          "materialName": "BO",
+          "uom": "",
+          "rate": 1,
+          "_id": {
+            "$oid": "66f4d1f3058c9627841c7eac"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66f4d1f3058c9627841c7eab"
+      }
+    },
+    {
+      "materialType": "cutting",
+      "rows": [
+        {
+          "materialName": "Wood cutting",
+          "uom": "Hrs",
+          "rate": 400,
+          "size": "",
+          "_id": {
+            "$oid": "66f11db6e03eb27213900d3a"
+          }
+        },
+        {
+          "materialName": "Board cutting",
+          "uom": "Hrs",
+          "rate": 400,
+          "size": "",
+          "_id": {
+            "$oid": "66f11db6e03eb27213900d3b"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66f11db6e03eb27213900d39"
+      }
+    }
+  ],
+  "submittedAt": {
+    "$date": "2024-09-23T07:50:14.501Z"
+  },
+  "items": [
+    {
+      "itemSelect": "Shoe Rack",
+      "components": [
+        {
+          "unit": "500mm",
+          "componentName": "top and bottom panel",
+          "length": 0.9,
+          "breadth": 0.4,
+          "depth": null,
+          "quantity": 2,
+          "cutsize": 0.2481,
+          "materials": [],
+          "_id": {
+            "$oid": "66f12ff0e03eb27213900d42"
+          }
+        },
+        {
+          "unit": "500mm",
+          "componentName": "side carcasse expo",
+          "length": 0.9,
+          "breadth": 0.4,
+          "depth": null,
+          "quantity": 2,
+          "cutsize": 0.1985,
+          "materials": [],
+          "_id": {
+            "$oid": "66f12ff0e03eb27213900d43"
+          }
+        },
+        {
+          "unit": "500mm",
+          "componentName": "shutter",
+          "length": 0.45,
+          "breadth": 0.78,
+          "depth": null,
+          "quantity": 2,
+          "cutsize": 0.2481,
+          "materials": [],
+          "_id": {
+            "$oid": "66f12ff0e03eb27213900d44"
+          }
+        },
+        {
+          "unit": "500mm",
+          "componentName": "shelf",
+          "length": 0.9,
+          "breadth": 0.4,
+          "depth": null,
+          "quantity": 1,
+          "cutsize": 0.2481,
+          "materials": [],
+          "_id": {
+            "$oid": "66f12ff0e03eb27213900d45"
+          }
+        },
+        {
+          "unit": "500mm",
+          "componentName": "Back panel",
+          "length": 0.9,
+          "breadth": 0.78,
+          "depth": null,
+          "quantity": 1,
+          "cutsize": 0.2481,
+          "materials": [],
+          "_id": {
+            "$oid": "66f12ff0e03eb27213900d46"
+          }
+        },
+        {
+          "unit": "500mm",
+          "componentName": "skirting",
+          "length": 0.9,
+          "breadth": 0.1,
+          "depth": null,
+          "quantity": 1,
+          "cutsize": 0.108,
+          "materials": [],
+          "_id": {
+            "$oid": "66f12ff0e03eb27213900d47"
+          }
+        },
+        {
+          "unit": "Joinary labour",
+          "componentName": "joinary",
+          "length": 1,
+          "breadth": 1,
+          "depth": null,
+          "quantity": 1,
+          "cutsize": 1,
+          "materials": [],
+          "_id": {
+            "$oid": "66f12ff0e03eb27213900d48"
+          }
+        },
+        {
+          "unit": "Installation labour",
+          "componentName": "Installation",
+          "length": 1,
+          "breadth": 1,
+          "depth": 1,
+          "quantity": 1,
+          "cutsize": 1,
+          "materials": [],
+          "_id": {
+            "$oid": "66f12ff0e03eb27213900d49"
+          }
+        }
+      ],
+      "bo": [
+        {
+          "materialname": "plinth screw",
+          "quantity": 4,
+          "cutsize": 7,
+          "materials": [],
+          "_id": {
+            "$oid": "66f12ff0e03eb27213900d4a"
+          }
+        },
+        {
+          "materialname": "soft closing hinges",
+          "quantity": 4,
+          "cutsize": 135,
+          "materials": [],
+          "_id": {
+            "$oid": "66f12ff0e03eb27213900d4b"
+          }
+        },
+        {
+          "materialname": "handle",
+          "quantity": 2,
+          "cutsize": 300,
+          "materials": [],
+          "_id": {
+            "$oid": "66f12ff0e03eb27213900d4c"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66f12ff0e03eb27213900d41"
+      }
+    },
+    {
+      "itemSelect": "TV unit ",
+      "components": [
+        {
+          "unit": "Bottom unit",
+          "componentName": "top panel expo - 25mm thk",
+          "length": 1.8,
+          "breadth": 0.45,
+          "depth": null,
+          "quantity": 1,
+          "cutsize": 0.972,
+          "materials": [],
+          "_id": {
+            "$oid": "66f12ff0e03eb27213900d4e"
+          }
+        },
+        {
+          "unit": "Bottom unit",
+          "componentName": "top and bottom panel",
+          "length": 0.8,
+          "breadth": 0.45,
+          "depth": null,
+          "quantity": 2,
+          "cutsize": 0.432,
+          "materials": [],
+          "_id": {
+            "$oid": "66f12ff0e03eb27213900d4f"
+          }
+        },
+        {
+          "unit": "Bottom unit",
+          "componentName": "side carcasse",
+          "length": 0.5,
+          "breadth": 0.45,
+          "depth": null,
+          "quantity": 2,
+          "cutsize": 0.27,
+          "materials": [],
+          "_id": {
+            "$oid": "66f12ff0e03eb27213900d50"
+          }
+        },
+        {
+          "unit": "Bottom unit",
+          "componentName": "side carcasse - expo",
+          "length": 0.5,
+          "breadth": 0.45,
+          "depth": null,
+          "quantity": 2,
+          "cutsize": 0.27,
+          "materials": [],
+          "_id": {
+            "$oid": "66f12ff0e03eb27213900d51"
+          }
+        },
+        {
+          "unit": "Bottom unit",
+          "componentName": "shutter",
+          "length": 0.5,
+          "breadth": 0.4,
+          "depth": null,
+          "quantity": 4,
+          "cutsize": 0.24,
+          "materials": [],
+          "_id": {
+            "$oid": "66f12ff0e03eb27213900d52"
+          }
+        },
+        {
+          "unit": "Bottom unit",
+          "componentName": "shelf",
+          "length": 0.5,
+          "breadth": 0.45,
+          "depth": null,
+          "quantity": 2,
+          "cutsize": 0.27,
+          "materials": [],
+          "_id": {
+            "$oid": "66f12ff0e03eb27213900d53"
+          }
+        },
+        {
+          "unit": "Bottom unit",
+          "componentName": "Back panel",
+          "length": 0.5,
+          "breadth": 0.4,
+          "depth": null,
+          "quantity": 2,
+          "cutsize": 0.24,
+          "materials": [],
+          "_id": {
+            "$oid": "66f12ff0e03eb27213900d54"
+          }
+        },
+        {
+          "unit": "Bottom unit",
+          "componentName": "Drawer facia",
+          "length": 0.8,
+          "breadth": 0.2,
+          "depth": null,
+          "quantity": 1,
+          "cutsize": 0.192,
+          "materials": [],
+          "_id": {
+            "$oid": "66f12ff0e03eb27213900d55"
+          }
+        },
+        {
+          "unit": "Bottom unit",
+          "componentName": "Drawer unit",
+          "length": 0.8,
+          "breadth": 0.2,
+          "depth": 0.45,
+          "quantity": 1,
+          "cutsize": 0.432,
+          "materials": [],
+          "_id": {
+            "$oid": "66f12ff0e03eb27213900d56"
+          }
+        },
+        {
+          "unit": "Bottom unit",
+          "componentName": "top bottom panel - expo",
+          "length": 0.8,
+          "breadth": 0.45,
+          "depth": null,
+          "quantity": null,
+          "cutsize": 0.432,
+          "materials": [],
+          "_id": {
+            "$oid": "66f12ff0e03eb27213900d57"
+          }
+        },
+        {
+          "unit": "Bottom unit",
+          "componentName": "side carcasse expo",
+          "length": 0.2,
+          "breadth": 0.45,
+          "depth": null,
+          "quantity": 2,
+          "cutsize": 0.108,
+          "materials": [],
+          "_id": {
+            "$oid": "66f12ff0e03eb27213900d58"
+          }
+        },
+        {
+          "unit": "Bottom unit",
+          "componentName": "Back panel expo - 18 mm thk",
+          "length": 0.8,
+          "breadth": 0.2,
+          "depth": null,
+          "quantity": 1,
+          "cutsize": 0.192,
+          "materials": [],
+          "_id": {
+            "$oid": "66f12ff0e03eb27213900d59"
+          }
+        },
+        {
+          "unit": "Joineary labour",
+          "componentName": "Joinary ",
+          "length": 11,
+          "breadth": 1,
+          "depth": 1,
+          "quantity": 1,
+          "cutsize": 1,
+          "materials": [],
+          "_id": {
+            "$oid": "66f12ff0e03eb27213900d5a"
+          }
+        },
+        {
+          "unit": "Installation labour",
+          "componentName": "Installation",
+          "length": 1,
+          "breadth": 1,
+          "depth": 1,
+          "quantity": 1,
+          "cutsize": 1,
+          "materials": [],
+          "_id": {
+            "$oid": "66f12ff0e03eb27213900d5b"
+          }
+        }
+      ],
+      "bo": [
+        {
+          "materialname": "suspension bracket",
+          "quantity": 1,
+          "cutsize": 250,
+          "materials": [],
+          "_id": {
+            "$oid": "66f12ff0e03eb27213900d5c"
+          }
+        },
+        {
+          "materialname": "soft closing hinges",
+          "quantity": 4,
+          "cutsize": 152,
+          "materials": [],
+          "_id": {
+            "$oid": "66f12ff0e03eb27213900d5d"
+          }
+        },
+        {
+          "materialname": "Handel",
+          "quantity": 1,
+          "cutsize": 300,
+          "materials": [],
+          "_id": {
+            "$oid": "66f12ff0e03eb27213900d5e"
+          }
+        },
+        {
+          "materialname": "Drawer channel",
+          "quantity": 1,
+          "cutsize": 580,
+          "materials": [],
+          "_id": {
+            "$oid": "66f12ff0e03eb27213900d5f"
+          }
+        },
+        {
+          "materialname": "electrical point sifting",
+          "quantity": 1,
+          "cutsize": 1,
+          "materials": [],
+          "_id": {
+            "$oid": "66f12ff0e03eb27213900d60"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66f12ff0e03eb27213900d4d"
+      }
+    },
+    {
+      "itemSelect": "Bedroom - 01",
+      "components": [
+        {
+          "unit": "Loft - 1000mm & 500mm",
+          "componentName": "Top and Bottom Panel",
+          "length": 1,
+          "breadth": 0.1,
+          "depth": 1,
+          "quantity": 2,
+          "cutsize": 0.12,
+          "_id": {
+            "$oid": "66f4d1f3058c9627841c7ed1"
+          },
+          "materials": []
+        },
+        {
+          "unit": "Loft - 1000mm & 500mm",
+          "componentName": "Top and Bottom Panel",
+          "length": 0.5,
+          "breadth": 0.1,
+          "depth": 1,
+          "quantity": 2,
+          "cutsize": 0.06,
+          "_id": {
+            "$oid": "66f4d1f3058c9627841c7ed2"
+          },
+          "materials": []
+        },
+        {
+          "unit": "Loft - 1000mm & 500mm",
+          "componentName": "Side Carcasse Loft",
+          "length": 0.7,
+          "breadth": 0.1,
+          "depth": 1,
+          "quantity": 3,
+          "cutsize": 0.084,
+          "_id": {
+            "$oid": "66f4d1f3058c9627841c7ed3"
+          },
+          "materials": []
+        },
+        {
+          "unit": "Loft - 1000mm & 500mm",
+          "componentName": "Side Carcasse Expo",
+          "length": 0.7,
+          "breadth": 0.6,
+          "depth": 1,
+          "quantity": 1,
+          "cutsize": 0.504,
+          "_id": {
+            "$oid": "66f4d1f3058c9627841c7ed4"
+          },
+          "materials": []
+        },
+        {
+          "unit": "Loft - 1000mm & 500mm",
+          "componentName": "Shutter Loft",
+          "length": 0.5,
+          "breadth": 0.6,
+          "depth": 1,
+          "quantity": 3,
+          "cutsize": 0.36,
+          "_id": {
+            "$oid": "66f4d1f3058c9627841c7ed5"
+          },
+          "materials": []
+        },
+        {
+          "unit": "Loft - 1000mm & 500mm",
+          "componentName": "Pelmet",
+          "length": 1,
+          "breadth": 0.1,
+          "depth": 1,
+          "quantity": 1,
+          "cutsize": 0.12,
+          "_id": {
+            "$oid": "66f4d1f3058c9627841c7ed6"
+          },
+          "materials": []
+        },
+        {
+          "unit": "Loft - 1000mm & 500mm",
+          "componentName": "Pelmet",
+          "length": 0.5,
+          "breadth": 0.1,
+          "depth": 1,
+          "quantity": 1,
+          "cutsize": 0.06,
+          "_id": {
+            "$oid": "66f4d1f3058c9627841c7ed7"
+          },
+          "materials": []
+        },
+        {
+          "unit": "Loft - 900mm & 400mm",
+          "componentName": "Top Panel",
+          "length": 0.9,
+          "breadth": 0.1,
+          "depth": 1,
+          "quantity": 2,
+          "cutsize": 0.108,
+          "_id": {
+            "$oid": "66f4d1f3058c9627841c7ed8"
+          },
+          "materials": []
+        },
+        {
+          "unit": "Loft - 900mm & 400mm",
+          "componentName": "Top Panel",
+          "length": 0.4,
+          "breadth": 0.1,
+          "depth": 1,
+          "quantity": 2,
+          "cutsize": 0.048,
+          "_id": {
+            "$oid": "66f4d1f3058c9627841c7ed9"
+          },
+          "materials": []
+        },
+        {
+          "unit": "Loft - 900mm & 400mm",
+          "componentName": "Bottom Panel Expo",
+          "length": 0.9,
+          "breadth": 0.6,
+          "depth": 1,
+          "quantity": 1,
+          "cutsize": 0.648,
+          "_id": {
+            "$oid": "66f4d1f3058c9627841c7eda"
+          },
+          "materials": []
+        },
+        {
+          "unit": "Loft - 900mm & 400mm",
+          "componentName": "Bottom Panel Expo",
+          "length": 0.4,
+          "breadth": 0.6,
+          "depth": 1,
+          "quantity": 1,
+          "cutsize": 0.288,
+          "_id": {
+            "$oid": "66f4d1f3058c9627841c7edb"
+          },
+          "materials": []
+        },
+        {
+          "unit": "Loft - 900mm & 400mm",
+          "componentName": "Side Carcasse Loft",
+          "length": 0.7,
+          "breadth": 0.6,
+          "depth": 1,
+          "quantity": 4,
+          "cutsize": 0.504,
+          "_id": {
+            "$oid": "66f4d1f3058c9627841c7edc"
+          },
+          "materials": []
+        },
+        {
+          "unit": "Loft - 900mm & 400mm",
+          "componentName": "Shutter Loft",
+          "length": 0.45,
+          "breadth": 0.6,
+          "depth": 1,
+          "quantity": 2,
+          "cutsize": 0.324,
+          "_id": {
+            "$oid": "66f4d1f3058c9627841c7edd"
+          },
+          "materials": []
+        },
+        {
+          "unit": "Loft - 900mm & 400mm",
+          "componentName": "Shutter Loft",
+          "length": 0.4,
+          "breadth": 0.6,
+          "depth": 1,
+          "quantity": 1,
+          "cutsize": 0.288,
+          "_id": {
+            "$oid": "66f4d1f3058c9627841c7ede"
+          },
+          "materials": []
+        },
+        {
+          "unit": "Loft - 900mm & 400mm",
+          "componentName": "Back Panel",
+          "length": 0.9,
+          "breadth": 0.6,
+          "depth": 1,
+          "quantity": 1,
+          "cutsize": 0.648,
+          "_id": {
+            "$oid": "66f4d1f3058c9627841c7edf"
+          },
+          "materials": []
+        },
+        {
+          "unit": "Loft - 900mm & 400mm",
+          "componentName": "Back Panel",
+          "length": 0.4,
+          "breadth": 0.6,
+          "depth": 1,
+          "quantity": 1,
+          "cutsize": 0.288,
+          "_id": {
+            "$oid": "66f4d1f3058c9627841c7ee0"
+          },
+          "materials": []
+        },
+        {
+          "unit": "Loft - 900mm & 400mm",
+          "componentName": "Pelmet",
+          "length": 0.9,
+          "breadth": 0.1,
+          "depth": 1,
+          "quantity": 1,
+          "cutsize": 0.108,
+          "_id": {
+            "$oid": "66f4d1f3058c9627841c7ee1"
+          },
+          "materials": []
+        },
+        {
+          "unit": "Loft - 900mm & 400mm",
+          "componentName": "Pelmet",
+          "length": 0.4,
+          "breadth": 0.1,
+          "depth": 1,
+          "quantity": 1,
+          "cutsize": 0.048,
+          "_id": {
+            "$oid": "66f4d1f3058c9627841c7ee2"
+          },
+          "materials": []
+        },
+        {
+          "unit": "Wardrobe - 1000mm",
+          "componentName": "Top panel",
+          "length": 1,
+          "breadth": 0.6,
+          "depth": 1,
+          "quantity": 1,
+          "cutsize": 0.72,
+          "_id": {
+            "$oid": "66f4d1f3058c9627841c7ee3"
+          },
+          "materials": []
+        },
+        {
+          "unit": "Wardrobe - 1000mm",
+          "componentName": "Bottom Panel",
+          "length": 1,
+          "breadth": 0.6,
+          "depth": 1,
+          "quantity": 1,
+          "cutsize": 0.72,
+          "_id": {
+            "$oid": "66f4d1f3058c9627841c7ee4"
+          },
+          "materials": []
+        },
+        {
+          "unit": "Wardrobe - 1000mm",
+          "componentName": "Side Carcasse",
+          "length": 2.1,
+          "breadth": 0.6,
+          "depth": 1,
+          "quantity": 1,
+          "cutsize": 1.512,
+          "_id": {
+            "$oid": "66f4d1f3058c9627841c7ee5"
+          },
+          "materials": []
+        },
+        {
+          "unit": "Wardrobe - 1000mm",
+          "componentName": "Side Carcasse Exposed",
+          "length": 2.1,
+          "breadth": 0.6,
+          "depth": 1,
+          "quantity": 1,
+          "cutsize": 1.512,
+          "_id": {
+            "$oid": "66f4d1f3058c9627841c7ee6"
+          },
+          "materials": []
+        },
+        {
+          "unit": "Wardrobe - 1000mm",
+          "componentName": "Back Panel",
+          "length": 2,
+          "breadth": 1,
+          "depth": 1,
+          "quantity": 1,
+          "cutsize": 2.4,
+          "_id": {
+            "$oid": "66f4d1f3058c9627841c7ee7"
+          },
+          "materials": []
+        },
+        {
+          "unit": "Wardrobe - 1000mm",
+          "componentName": "Shutter",
+          "length": 2,
+          "breadth": 0.5,
+          "depth": 1,
+          "quantity": 2,
+          "cutsize": 1.2,
+          "_id": {
+            "$oid": "66f4d1f3058c9627841c7ee8"
+          },
+          "materials": []
+        },
+        {
+          "unit": "Wardrobe - 1000mm",
+          "componentName": "Skirting",
+          "length": 1,
+          "breadth": 0.1,
+          "depth": 1,
+          "quantity": 1,
+          "cutsize": 0.12,
+          "_id": {
+            "$oid": "66f4d1f3058c9627841c7ee9"
+          },
+          "materials": []
+        },
+        {
+          "unit": "Wardrobe - 1000mm",
+          "componentName": "Filler Piece",
+          "length": 2.8,
+          "breadth": 0.09,
+          "depth": 1,
+          "quantity": 1,
+          "cutsize": 0.3024,
+          "_id": {
+            "$oid": "66f4d1f3058c9627841c7eea"
+          },
+          "materials": []
+        },
+        {
+          "unit": "Wardrobe - 500mm",
+          "componentName": "Top panel",
+          "length": 0.5,
+          "breadth": 0.6,
+          "depth": 1,
+          "quantity": 1,
+          "cutsize": 0.36,
+          "_id": {
+            "$oid": "66f4d1f3058c9627841c7eeb"
+          },
+          "materials": []
+        },
+        {
+          "unit": "Wardrobe - 500mm",
+          "componentName": "Bottom Panel",
+          "length": 0.5,
+          "breadth": 0.6,
+          "depth": 1,
+          "quantity": 1,
+          "cutsize": 0.36,
+          "_id": {
+            "$oid": "66f4d1f3058c9627841c7eec"
+          },
+          "materials": []
+        },
+        {
+          "unit": "Wardrobe - 500mm",
+          "componentName": "Side Carcasse",
+          "length": 2.1,
+          "breadth": 0.6,
+          "depth": 1,
+          "quantity": 1,
+          "cutsize": 1.512,
+          "_id": {
+            "$oid": "66f4d1f3058c9627841c7eed"
+          },
+          "materials": []
+        },
+        {
+          "unit": "Wardrobe - 500mm",
+          "componentName": "Side Carcasse Exposed",
+          "length": 2.1,
+          "breadth": 0.6,
+          "depth": 1,
+          "quantity": 1,
+          "cutsize": 1.512,
+          "_id": {
+            "$oid": "66f4d1f3058c9627841c7eee"
+          },
+          "materials": []
+        },
+        {
+          "unit": "Wardrobe - 500mm",
+          "componentName": "Back Panel",
+          "length": 2,
+          "breadth": 0.5,
+          "depth": 1,
+          "quantity": 1,
+          "cutsize": 1.2,
+          "_id": {
+            "$oid": "66f4d1f3058c9627841c7eef"
+          },
+          "materials": []
+        },
+        {
+          "unit": "Wardrobe - 500mm",
+          "componentName": "Shutter",
+          "length": 2,
+          "breadth": 0.5,
+          "depth": 1,
+          "quantity": 1,
+          "cutsize": 1.2,
+          "_id": {
+            "$oid": "66f4d1f3058c9627841c7ef0"
+          },
+          "materials": []
+        },
+        {
+          "unit": "Wardrobe - 500mm",
+          "componentName": "Skirting",
+          "length": 0.5,
+          "breadth": 0.1,
+          "depth": 1,
+          "quantity": 1,
+          "cutsize": 0.06,
+          "_id": {
+            "$oid": "66f4d1f3058c9627841c7ef1"
+          },
+          "materials": []
+        },
+        {
+          "unit": "Internal",
+          "componentName": "Shelf",
+          "length": 1,
+          "breadth": 0.6,
+          "depth": 1,
+          "quantity": 1,
+          "cutsize": 0.72,
+          "_id": {
+            "$oid": "66f4d1f3058c9627841c7ef2"
+          },
+          "materials": []
+        },
+        {
+          "unit": "Internal",
+          "componentName": "Shelf adjustable",
+          "length": 0.5,
+          "breadth": 0.6,
+          "depth": 1,
+          "quantity": 5,
+          "cutsize": 0.36,
+          "_id": {
+            "$oid": "66f4d1f3058c9627841c7ef3"
+          },
+          "materials": []
+        },
+        {
+          "unit": "Internal",
+          "componentName": "Vertical - 25mm thk",
+          "length": 0.4,
+          "breadth": 0.6,
+          "depth": 1,
+          "quantity": 2,
+          "cutsize": 0.288,
+          "_id": {
+            "$oid": "66f4d1f3058c9627841c7ef4"
+          },
+          "materials": []
+        },
+        {
+          "unit": "Internal",
+          "componentName": "Vertical",
+          "length": 0.8,
+          "breadth": 0.6,
+          "depth": 1,
+          "quantity": 1,
+          "cutsize": 0.576,
+          "_id": {
+            "$oid": "66f4d1f3058c9627841c7ef5"
+          },
+          "materials": []
+        },
+        {
+          "unit": "Internal",
+          "componentName": "Drawer Unit",
+          "length": 0.5,
+          "breadth": 0.2,
+          "depth": 0.6,
+          "quantity": 2,
+          "cutsize": 0.36,
+          "_id": {
+            "$oid": "66f4d1f3058c9627841c7ef6"
+          },
+          "materials": []
+        },
+        {
+          "unit": "Joiner Labour",
+          "componentName": "Joiner Labour",
+          "length": 1,
+          "breadth": 1,
+          "depth": 1,
+          "quantity": 1,
+          "cutsize": 1,
+          "_id": {
+            "$oid": "66f4d1f3058c9627841c7ef7"
+          },
+          "materials": []
+        },
+        {
+          "unit": "Installation Labour",
+          "componentName": "Installation Labour",
+          "length": 1,
+          "breadth": 1,
+          "depth": 1,
+          "quantity": 1,
+          "cutsize": 1,
+          "_id": {
+            "$oid": "66f4d1f3058c9627841c7ef8"
+          },
+          "materials": []
+        }
+      ],
+      "bo": [
+        {
+          "materialname": "Plinth screw",
+          "quantity": 8,
+          "cutsize": 7,
+          "_id": {
+            "$oid": "66f4d1f3058c9627841c7ef9"
+          },
+          "materials": []
+        },
+        {
+          "materialname": "Soft Closing Hinges",
+          "quantity": 24,
+          "cutsize": 135,
+          "_id": {
+            "$oid": "66f4d1f3058c9627841c7efa"
+          },
+          "materials": []
+        },
+        {
+          "materialname": "Two Way Tape",
+          "quantity": 6.5,
+          "cutsize": 140,
+          "_id": {
+            "$oid": "66f4d1f3058c9627841c7efb"
+          },
+          "materials": []
+        },
+        {
+          "materialname": "Handle Loft",
+          "quantity": 6,
+          "cutsize": 300,
+          "_id": {
+            "$oid": "66f4d1f3058c9627841c7efc"
+          },
+          "materials": []
+        },
+        {
+          "materialname": "Handle wardrobe",
+          "quantity": 3,
+          "cutsize": 300,
+          "_id": {
+            "$oid": "66f4d1f3058c9627841c7efd"
+          },
+          "materials": []
+        },
+        {
+          "materialname": "Knob",
+          "quantity": 2,
+          "cutsize": 230,
+          "_id": {
+            "$oid": "66f4d1f3058c9627841c7efe"
+          },
+          "materials": []
+        },
+        {
+          "materialname": "Hanger Rod",
+          "quantity": 1,
+          "cutsize": 267.3,
+          "_id": {
+            "$oid": "66f4d1f3058c9627841c7eff"
+          },
+          "materials": []
+        },
+        {
+          "materialname": "Hanger Cup",
+          "quantity": 2,
+          "cutsize": 45.1,
+          "_id": {
+            "$oid": "66f4d1f3058c9627841c7f00"
+          },
+          "materials": []
+        },
+        {
+          "materialname": "Mirror",
+          "quantity": 1.063125,
+          "cutsize": 1291.2,
+          "_id": {
+            "$oid": "66f4d1f3058c9627841c7f01"
+          },
+          "materials": []
+        },
+        {
+          "materialname": "Rod Lock - Kombo",
+          "quantity": 2,
+          "cutsize": 627,
+          "_id": {
+            "$oid": "66f4d1f3058c9627841c7f02"
+          },
+          "materials": []
+        },
+        {
+          "materialname": "Suspension Bracket",
+          "quantity": 2,
+          "cutsize": 250,
+          "_id": {
+            "$oid": "66f4d1f3058c9627841c7f03"
+          },
+          "materials": []
+        },
+        {
+          "materialname": "Multipurpose Lock",
+          "quantity": 2,
+          "cutsize": 95,
+          "_id": {
+            "$oid": "66f4d1f3058c9627841c7f04"
+          },
+          "materials": []
+        },
+        {
+          "materialname": "Drawer Channels",
+          "quantity": 2,
+          "cutsize": 770,
+          "_id": {
+            "$oid": "66f4d1f3058c9627841c7f05"
+          },
+          "materials": []
+        },
+        {
+          "materialname": "Installation Labour",
+          "quantity": 1,
+          "cutsize": 1,
+          "_id": {
+            "$oid": "66f4d1f3058c9627841c7f06"
+          },
+          "materials": []
+        }
+      ],
+      "_id": {
+        "$oid": "66f4d1f3058c9627841c7ed0"
+      }
+    }
+  ],
+  "__v": 0
+}]

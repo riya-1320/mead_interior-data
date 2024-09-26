@@ -1,0 +1,39 @@
+[{
+  "_id": {
+    "$oid": "66f239429deace5b6f496f10"
+  },
+  "name": "tessd",
+  "email": "tedst@gmail.com",
+  "password": "$2a$10$B9GEnZdhJr4RlQlbBm1UOOGEJKNCw1bPqXOqf.wEtV52G0Cb9e03y",
+  "role": "User",
+  "date": {
+    "$date": "2024-09-24T04:00:02.647Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f2395a9deace5b6f496f13"
+  },
+  "name": "admin",
+  "email": "admin@gmail.com",
+  "password": "$2a$10$uOenmV08ChipQaRG0JF4HuleGbrmAGLnZjWn2e0DcOlE/yCuJ1vfS",
+  "role": "Admin",
+  "date": {
+    "$date": "2024-09-24T04:00:26.375Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f536c35cea4ca88a330c7f"
+  },
+  "name": "sd",
+  "email": "df@ds.ds",
+  "password": "$2a$10$m9VUbnTx8B.rSmTC39f0UunKgCA01mW5OiBR5K.Iw0m3k0lasSIxq",
+  "role": "User",
+  "date": {
+    "$date": "2024-09-26T10:26:11.015Z"
+  },
+  "__v": 0
+}]
